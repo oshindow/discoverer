@@ -1,0 +1,272 @@
+<!DOCTYPE html>
+
+  
+<body>
+
+<div id="mainContentDiv">
+
+    <div class="mainDivMainImgDiv" style="">
+        <div class="headLeftDiv headLeftDivFont">搜索结果</div>
+
+        <div class="headRightDiv">
+
+            <div class="layui-form-item">
+
+                <div class="layui-input-inline">
+                    <div class="layui-form">
+                        <select name="cdSelect" lay-verify="" lay-filter="test" id="conditionSelect">
+                            <option value="article" selected>专业</option>
+                            <option value="">学校</option>
+                            <option value="">姓名</option>
+                        </select>
+                    </div>
+                </div>
+                <div class="layui-input-inline">
+                    <input class="layui-input" name="conditionInput" id="conditionInput" autocomplete="off">
+                </div>
+
+                <button id="reloadBtn" class="layui-btn" data-type="reload">搜索</button>
+            </div>
+
+        </div>
+
+        <div class="link-top"></div>
+        <div class="headLineBlowDiv">
+            <div class="headLeftDiv">
+                共搜索到<span>{{ length }}</span>条记录
+            </div>
+
+
+        </div>
+
+
+</div>
+
+    <div class="mainDivMainInfoiv">
+
+
+        <div class="mainInfoSubDiv">
+
+            <div class="mainDIvMainInfoDivSubInfoDiv" >
+
+                <div class="mainDivMainInfoiv_HeadTextDiv " >
+                    {% for name in names %}
+                    <div class="mainDivMainInfoiv_HeadTextDiv_TextBox cardInfoTitle findKey" >
+                        {{ name[1] }}
+                    </div>
+                    {% endfor %}
+                </div>
+
+                <div class="mainDivMainInfoiv_mainTextDiv  findKey">
+                  {{ university }}
+                </div>
+
+            </div>
+
+            <div id="parent-id" class="mainDIvMainInfoDivSubInfoDiv" >
+
+                <div class="mainDivMainInfoiv_HeadTextDiv " >
+                    <div class="mainDivMainInfoiv_HeadTextDiv_TextBox cardInfoTitle findKey" >
+
+                    </div>
+                </div>
+                <div class="mainDivMainInfoiv_mainTextDiv  findKey">
+                   学校：
+                </div>
+
+             
+            </div>
+
+            <div class="mainDIvMainInfoDivSubInfoDiv" >
+
+                <div class="mainDivMainInfoiv_HeadTextDiv " >
+                    <div class="mainDivMainInfoiv_HeadTextDiv_TextBox cardInfoTitle findKey" >
+                       XXX
+                    </div>
+                </div>
+
+                <div class="mainDivMainInfoiv_mainTextDiv  findKey">
+                  学校：
+
+                </div>
+
+               
+            </div>
+
+
+
+        </div>
+
+
+
+    </div>
+</div>
+
+</body>
+</html>
+
+
+<style>
+body {
+    background: whitesmoke;
+
+}
+
+#mainContentDiv {
+    position: absolute;
+    width: 70%;
+    height: 100%;
+    background: whitesmoke;
+    top: 10%;
+    left: 10%;
+
+}
+
+.mainDivMainImgDiv {
+    position: absolute;
+    width: 100%;
+    height: 120px;
+    background: white;
+
+}
+
+.mainDivMainInfoiv {
+
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background: whitesmoke;
+    top: 130px;
+}
+
+.mainInfoSubDiv{
+    position: relative;
+    width: 100%;
+    height: 100%;
+    background: whitesmoke;
+    overflow-y: auto;
+    overflow-x: hidden;
+}
+
+.headLeftDiv {
+    position: absolute;
+    width: 50%;
+    height: 100%;
+    left: 4%;
+    top: 25%;
+}
+
+.headLeftDivFont {
+    font-weight: 500;
+    /*line-height: 58px;*/
+    font-size: 20px;
+    color: #333;
+}
+
+.headRightDiv {
+    position: absolute;
+    width: 40%;
+    height: 100%;
+    right: 2%;
+    top: 20%;
+}
+
+
+.link-top {
+    position: absolute;
+    top: 60%;
+    left: 4%;
+    width: 90%;
+    height: 1px;
+    border-top: solid #e8edf3 1px;
+}
+
+.headLineBlowDiv {
+    position: absolute;
+    top: 63%;
+    height: 40%;
+    width: 100%;
+}
+
+.mainDIvMainInfoDivSubInfoDiv {
+    position: relative;
+    width: 100%;
+    height: 13%;
+    background: white;
+    border: 1px solid #eaeaea;
+}
+
+
+.mainDIvMainInfoDivSubInfoDiv:hover {
+    background: rgba(0, 0, 0, 0.05);
+}
+
+
+.mainDivMainInfoiv_HeadTextDiv {
+    position: absolute;
+    top: 10%;
+    left: 4%;
+    width: 30%;
+    height: 30%;
+    background: rgba(0, 0, 0, 0);
+
+}
+
+.mainDivMainInfoiv_mainTextDiv {
+    position: absolute;
+    top: 52%;
+    left: 4%;
+    width: 80%;
+    background: rgba(0, 0, 0, 0);
+
+    overflow: hidden;
+    text-overflow:ellipsis;
+    display:-webkit-box;
+    -webkit-box-orient:vertical;
+    -webkit-line-clamp:2;
+    font-size: 12px;
+    color: rgb(102, 102, 102);
+}
+
+
+.mainDivMainInfoiv_HeadTextDiv_TextBox {
+    position: absolute;
+    top: 25%;
+    width: 100%;
+    height: 50%;
+
+    background: rgba(0, 0, 0, 0);
+
+}
+
+.cardInfoTitle {
+    font-weight: 700;
+    /*color: #1f264d;*/
+    height: 22px;
+    display: inline-block;
+    max-width: 600px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    cursor: pointer;
+}
+
+
+.rightFlexFont {
+    color: #b3b3b3;
+    font-weight: 500;
+    text-align: right;
+    font-size: 12px;
+    color: rgb(179, 179, 179);
+}
+
+
+.InfoDiv_Right_2 {
+    position: absolute;
+    top: 55%;
+    right: 2%;
+    width: 18%;
+    height: 30%;
+    background: rgba(0, 0, 0, 0);
+}
+</style>

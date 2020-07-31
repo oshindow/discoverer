@@ -1,27 +1,21 @@
 import re
 import logging
 import pymysql
-import numpy as np
-import pandas as pd
+
 from lxml import etree
 from bs4 import BeautifulSoup
 from urllib.request import urlopen
-
-import json
-
 logging.basicConfig(
             level=logging.INFO,
             format="%(asctime)s (%(module)s:%(lineno)d) %(levelname)s: %(message)s",
         )
 
-'''
-创建
-'''
+
 def Create():
     db = pymysql.connect(
         host="localhost",
         user="root",
-        password="090022",
+        password="baiduyundy126",
         db="chinese"
     )
     cursor = db.cursor()
@@ -33,7 +27,7 @@ def Create():
             university CHAR(255),
             awards CHAR(255),
             majors CHAR(255),
-            papers VARCHAR(10000),
+            papers VARCHAR(5000),
             friends VARCHAR(5000),
             info VARCHAR(5000)
             )"""
@@ -45,7 +39,7 @@ def Insert(value):
     db = pymysql.connect(
         host="localhost",
         user="root",
-        password="090022",
+        password="baiduyundy126",
         database="chinese"
     )
     cursor = db.cursor()
@@ -59,9 +53,9 @@ if __name__ == '__main__':
 
     # Create()
 
-    for i in range(1000, 1500):
-        url_base = 'http://www.globalauthorid.com/WebPortal/AuthorView?wd=TZC1000'
-        url = url_base + str(i)
+    for i in range(101, 102):
+        url_base = 'http://www.globalauthorid.com/WebPortal/AuthorView?wd=TZC10000'
+        url = url_base + str(i) ###i
 
         html = urlopen(url).read().decode('utf-8')
         soup = BeautifulSoup(html, 'lxml')
@@ -102,6 +96,10 @@ if __name__ == '__main__':
                 unidata32 = ",".join(unidata31)
                 # print(unidata32)        ##32是未除,的str
                 unidata33 = unidata32
+                if len(university) < 4:
+                    university = unidata33.split(',')[0]
+                    unidata34 = unidata33.split(',')[1:]
+                    unidata33 = unidata34
                 while (unidata33 != unidata32.strip(",")):
                     unidata33 = unidata32.strip(",")
                     unidata32 = unidata33
@@ -122,36 +120,10 @@ if __name__ == '__main__':
             info = 'None'
         else:
             info = info.text
-        '''
-        if len(university.split('  ')) == 2:
-            country, uni_awa = university.split('  ')
-        else:
-            country = university.split(' ')[0]
-            uni_awa = university.split(' ')[1:]
 
-        uni_awa = " ".join(uni_awa)
-
-        if len(uni_awa.split(' ')) == 2:
-            university, award = uni_awa.split(' ')
-        elif len(uni_awa.split(' ')) == 1:
-            award = 'None'
-            university = uni_awa.split(' ')
-        else:
-            award = 'None'
-            university = "".join(uni_awa)
-        '''
-
-        major = []
-        for i in majors[1:]:
-            major.append(i.text)
-
-        paper = []
-        for j in papers[1:]:
-            paper.append(j.text.strip('\n\r  '))
-
-        friend = []
-        for u in friends[1:]:
-            friend.append(u.text)
+        major = [item.text for item in majors[1:]]
+        friend = [item.text for item in friends[1:]]
+        paper = [item.text.strip('\n\r  ') for item in papers[1:]]
 
         logging.info("name:{}".format(name))
         logging.info("country:{}".format(country))
@@ -165,11 +137,3 @@ if __name__ == '__main__':
         data = tuple([name, country, university, award, " ".join(major), " ".join(paper), " ".join(friend), info])
         Insert(data)
 
-
-    '''
-    with open('D:\\s729\\test.json', 'w') as file:
-        file.write(str(name))
-        file.write(str(University))
-        file.write(str(Direction))
-        file.write(str(Works))
-    '''
