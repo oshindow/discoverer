@@ -5,13 +5,13 @@ A University Scholar Discovery System
 
 # Features
 
-# 依赖环境
+# Environment
 * logging 
 * pymysql
 * pandas
 * flask
 
-# 用法
+# Useage
 ## 导入、连接数据库
 ```
 ### 导入网页/用户数据库
@@ -40,12 +40,12 @@ show tables;
 
 更改`src/app.py`中的 `pymysql.connect()` 参数为本地参数
 ```
-## 运行
+## Run
 ```
 * 配置pycharm的解释器
 * 创建flask server运行配置文件
 * 运行`src/app.py`
 * 从http://127.0.0.1:5000/index 进入网站
 ```
-# 作者
+# Author
 No Uzi
