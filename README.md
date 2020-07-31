@@ -12,7 +12,7 @@ A University Scholar Discovery System
 * flask
 
 # Useage
-## 导入、连接数据库
+## Import & Connect database
 ```
 ### 导入网页/用户数据库
 
