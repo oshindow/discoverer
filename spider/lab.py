@@ -1,10 +1,11 @@
 import re
 import logging
-import pymysql
 
 from lxml import etree
 from bs4 import BeautifulSoup
 from urllib.request import urlopen
+from src.connect import connect_page
+
 logging.basicConfig(
             level=logging.INFO,
             format="%(asctime)s (%(module)s:%(lineno)d) %(levelname)s: %(message)s",
@@ -12,13 +13,9 @@ logging.basicConfig(
 
 
 def Create():
-    db = pymysql.connect(
-        host="localhost",
-        user="root",
-        password="090022",
-        db="chinese"
-    )
+    db = connect_page()
     cursor = db.cursor()
+
     cursor.execute("DROP TABLE IF EXISTS sprint1")
     sql = """CREATE TABLE sprint1 (
             id int PRIMARY KEY AUTO_INCREMENT,
@@ -32,19 +29,17 @@ def Create():
             info VARCHAR(5000)
             )"""
     cursor.execute(sql)
+
     db.close()
 
 
 def Insert(value):
-    db = pymysql.connect(
-        host="localhost",
-        user="root",
-        password="090022",
-        database="chinese"
-    )
+    db = connect_page()
     cursor = db.cursor()
+
     sql = "INSERT INTO sprint1 (name, country, university, awards, majors, papers, friends, info) VALUES (%s, %s, %s, %s, %s, %s, %s, %s)"
     cursor.execute(sql, value)
+
     db.commit()
     db.close()
 
