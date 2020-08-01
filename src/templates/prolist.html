@@ -43,62 +43,49 @@
 </div>
 
     <div class="mainDivMainInfoiv">
-
-
         <div class="mainInfoSubDiv">
 
+{################################################################################################################################}
+            {% for i in range( 0, length ) %}
             <div class="mainDIvMainInfoDivSubInfoDiv" >
-
-                <div class="mainDivMainInfoiv_HeadTextDiv " >
-                    {% for name in names %}
-                    <div class="mainDivMainInfoiv_HeadTextDiv_TextBox cardInfoTitle findKey" >
-                        {{ name[1] }}
-                    </div>
-                    {% endfor %}
-                </div>
-
-                <div class="mainDivMainInfoiv_mainTextDiv  findKey">
-                  {{ university }}
-                </div>
-
-            </div>
-
-            <div id="parent-id" class="mainDIvMainInfoDivSubInfoDiv" >
-
                 <div class="mainDivMainInfoiv_HeadTextDiv " >
                     <div class="mainDivMainInfoiv_HeadTextDiv_TextBox cardInfoTitle findKey" >
-
-                    </div>
-                </div>
-                <div class="mainDivMainInfoiv_mainTextDiv  findKey">
-                   学校：
-                </div>
-
-             
-            </div>
-
-            <div class="mainDIvMainInfoDivSubInfoDiv" >
-
-                <div class="mainDivMainInfoiv_HeadTextDiv " >
-                    <div class="mainDivMainInfoiv_HeadTextDiv_TextBox cardInfoTitle findKey" >
-                       XXX
+                        {{ names[i] }}
                     </div>
                 </div>
 
                 <div class="mainDivMainInfoiv_mainTextDiv  findKey">
-                  学校：
-
+                  {{ country[i] }}  {{ university[i] }} {{ majors[i] }}
                 </div>
-
-               
             </div>
+            {% endfor %}
+
+{#            <div id="parent-id" class="mainDIvMainInfoDivSubInfoDiv" >#}
+{#                <div class="mainDivMainInfoiv_HeadTextDiv " >#}
+{#                    <div class="mainDivMainInfoiv_HeadTextDiv_TextBox cardInfoTitle findKey" >#}
+{##}
+{#                    </div>#}
+{#                </div>#}
+{#                <div class="mainDivMainInfoiv_mainTextDiv  findKey">#}
+{#                   学校：#}
+{#                </div>#}
+{#            </div>#}
+{##}
+{#            <div class="mainDIvMainInfoDivSubInfoDiv" >#}
+{#                <div class="mainDivMainInfoiv_HeadTextDiv " >#}
+{#                    <div class="mainDivMainInfoiv_HeadTextDiv_TextBox cardInfoTitle findKey" >#}
+{#                       XXX#}
+{#                    </div>#}
+{#                </div>#}
+{#                <div class="mainDivMainInfoiv_mainTextDiv  findKey">#}
+{#                  学校：#}
+{#                </div>#}
+{#            </div>#}
+{################################################################################################################################}
 
 
 
         </div>
-
-
-
     </div>
 </div>
 

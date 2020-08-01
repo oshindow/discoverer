@@ -25,9 +25,9 @@
 	<br>
 	<div class="w3layoutscontaineragileits">
 	<h2>登录</h2>
-		<form action="Login" method="post">
-			<input type="email" Name="Username" placeholder="邮箱" required>
-			<input type="password" Name="Password" placeholder="PASSWORD" required>
+		<form action="Login" method="get">
+			<input type="email" Name="email" placeholder="邮箱" required>
+			<input type="password" Name="password" placeholder="PASSWORD" required>
 			<ul class="agileinfotickwthree">
 				<li>
 					<input type="checkbox" id="brand1" value="">
@@ -50,37 +50,37 @@
 				<h3>用户注册</h3>
 				<form action="Register" method="get">
 						<div class="form-sub-w3ls">
-							<input placeholder="用户名"  type="text" required>
+							<input placeholder="用户名"  type="text" name="nickname" required>
 							<div class="icon-agile">
 								<i class="fa fa-user" aria-hidden="true"></i>
 							</div>
 						</div>
 						<div class="form-sub-w3ls">
-							<input placeholder="邮箱" class="mail" type="email" required>
+							<input placeholder="邮箱" class="mail" type="email" name="email" required>
 							<div class="icon-agile">
 								<i class="" aria-hidden="true"></i>
 							</div>
 						</div>
 						<div class="form-sub-w3ls">
-							<input placeholder="学校"  type="text" required>
+							<input placeholder="机构"  type="text" name="institution" required>
 							<div class="icon-agile">
 								<i class="fa fa-user" aria-hidden="true"></i>
 							</div>
 						</div>
 						<div class="form-sub-w3ls">
-							<input placeholder="专业"  type="text" required>
+							<input placeholder="身份"  type="text" name="identity" required>
 							<div class="icon-agile">
 								<i class="fa fa-user" aria-hidden="true"></i>
 							</div>
 						</div>
 						<div class="form-sub-w3ls">
-							<input placeholder="密码"  type="password" required>
+							<input placeholder="密码"  type="password" name="password" required>
 							<div class="icon-agile">
 								<i class="fa fa-unlock-alt" aria-hidden="true"></i>
 							</div>
 						</div>
 						<div class="form-sub-w3ls">
-							<input placeholder="确认密码"  type="password" required>
+							<input placeholder="确认密码"  type="password" name="password_con" required>
 							<div class="icon-agile">
 								<i class="fa fa-unlock-alt" aria-hidden="true"></i>
 							</div>

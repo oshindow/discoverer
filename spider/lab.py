@@ -15,12 +15,12 @@ def Create():
     db = pymysql.connect(
         host="localhost",
         user="root",
-        password="baiduyundy126",
+        password="090022",
         db="chinese"
     )
     cursor = db.cursor()
-    cursor.execute("DROP TABLE IF EXISTS filed_3")
-    sql = """CREATE TABLE filed_3 (
+    cursor.execute("DROP TABLE IF EXISTS sprint1")
+    sql = """CREATE TABLE sprint1 (
             id int PRIMARY KEY AUTO_INCREMENT,
             name CHAR(255),
             country CHAR(255),
@@ -39,11 +39,11 @@ def Insert(value):
     db = pymysql.connect(
         host="localhost",
         user="root",
-        password="baiduyundy126",
+        password="090022",
         database="chinese"
     )
     cursor = db.cursor()
-    sql = "INSERT INTO filed_3 (name, country, university, awards, majors, papers, friends, info) VALUES (%s, %s, %s, %s, %s, %s, %s, %s)"
+    sql = "INSERT INTO sprint1 (name, country, university, awards, majors, papers, friends, info) VALUES (%s, %s, %s, %s, %s, %s, %s, %s)"
     cursor.execute(sql, value)
     db.commit()
     db.close()
@@ -53,7 +53,7 @@ if __name__ == '__main__':
 
     # Create()
 
-    for i in range(101, 102):
+    for i in range(100, 999):
         url_base = 'http://www.globalauthorid.com/WebPortal/AuthorView?wd=TZC10000'
         url = url_base + str(i) ###i
 
@@ -125,6 +125,10 @@ if __name__ == '__main__':
         friend = [item.text for item in friends[1:]]
         paper = [item.text.strip('\n\r  ') for item in papers[1:]]
 
+        major = ";".join(major)
+        friend = ";".join(friend)
+        paper = ";".join(paper)
+
         logging.info("name:{}".format(name))
         logging.info("country:{}".format(country))
         logging.info("university:{}".format(university))
@@ -134,6 +138,5 @@ if __name__ == '__main__':
         logging.info("friend:{}".format(friend))
         logging.info("info:{}".format(info))
 
-        data = tuple([name, country, university, award, " ".join(major), " ".join(paper), " ".join(friend), info])
-        Insert(data)
-
+        data = tuple([name, country, university, award, major, paper, friend, info])
+        # Insert(data)

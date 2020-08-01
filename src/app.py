@@ -1,8 +1,9 @@
 import logging
-import pymysql
 import pandas as pd
 
+from src.connect import connect_page, connect_user
 from flask import Flask, render_template, request
+
 logging.basicConfig(
             level=logging.INFO,
             format="%(asctime)s (%(module)s:%(lineno)d) %(levelname)s: %(message)s",
@@ -10,14 +11,10 @@ logging.basicConfig(
 app = Flask(__name__)
 
 
-def Create_user():
-    db = pymysql.connect(
-        host="localhost",
-        user="root",
-        password="090022",
-        db="userinfo"
-    )
+def CreateUser():
+    db = connect_user()
     cursor = db.cursor()
+
     cursor.execute("DROP TABLE IF EXISTS userdata")
     sql = """CREATE TABLE userdata (
             id int PRIMARY KEY AUTO_INCREMENT,
@@ -28,33 +25,27 @@ def Create_user():
             identity CHAR(255)
             )"""
     cursor.execute(sql)
+
     db.close()
 
 
-def Insert_user(value):
-    db = pymysql.connect(
-        host="localhost",
-        user="root",
-        password="090022",
-        database="userinfo"
-    )
+def InsertUser(data):
+    db = connect_user()
     cursor = db.cursor()
+
     sql = "INSERT INTO userdata (email, nickname, password, institution, identity) VALUES (%s, %s, %s, %s, %s)"
-    cursor.execute(sql, value)
+
+    cursor.execute(sql, data)
     db.commit()
+
     db.close()
 
 
-def read_user(nickname=None):
-    db = pymysql.connect(
-        host="localhost",
-        user="root",
-        password="090022",
-        database="userinfo"
-    )
+def ReadUser(email):
+    db = connect_user()
 
     data = pd.read_sql(
-            'select password from userdata where nickname="%s" ' % nickname,
+            'select password from userdata where email="%s" ' % email,
             con=db)
 
     password = data.values[0]
@@ -63,31 +54,24 @@ def read_user(nickname=None):
     return password
 
 
-def read(name=None, university=None, majors=None):
-    db = pymysql.connect(
-        host="localhost",
-        user="root",
-        password="090022",
-        database="chinese"
-    )
+def Read(name=None, university=None, majors=None):
+    db = connect_page()
+
     if name:
         data = pd.read_sql(
-            'select name, country, university, awards, majors, papers, friends, info from filed_1 where name="%s" ' % name,
+            'select name, country, university, awards, majors, papers, friends, info from sprint1 where name="%s" ' % name,
             con=db)
     elif university:
         data = pd.read_sql(
-            'select name, country, university, awards, majors, papers, friends, info from filed_3 where university LIKE "%s" ' % university,
+            'select name, country, university, awards, majors, papers, friends, info from sprint1 where university LIKE "%s" ' % university,
             con=db)
     elif majors:
         data = pd.read_sql(
-            'select name, country, university, awards, majors, papers, friends, info from filed_1 where majors LIKE "%s" ' % majors,
+            'select name, country, university, awards, majors, papers, friends, info from sprint1 where majors LIKE "%s" ' % majors,
             con=db)
 
     length, _ = data.values.shape
-    # for i in range(0, length):
-    # data = []
-    # name, country, university, awards, majors, papers, friends, info = data.values[:]
-    # data.append(tuple([name, country, university, awards, majors, papers, friends, info]))
+
     name = data.values[:, 0]
     country = data.values[:, 1]
     university = data.values[:, 2]
@@ -104,19 +88,13 @@ def read(name=None, university=None, majors=None):
 
 @app.route('/')
 def CreateDatabasePage():
-    Create_user()
+    CreateUser()
     return "用户数据库创建ok"
 
-# 注册界面
-@app.route('/register')
-def register():
-    return render_template("register.html")
-
-# 登录界面
+# 登录 & 注册界面
 @app.route('/login')
 def login():
-    return render_template("login_v1.html")
-
+    return render_template("login.html")
 
 # 网站主页
 @app.route('/index')
@@ -134,67 +112,91 @@ def Register():
     identity = request.args.get("identity")
 
     while password_con != password:
-        return render_template("register.html")
+        return render_template("login.html")
 
     if password == password_con:
         data = tuple([email, nickname, password, institution, identity])
-        Insert_user(data)
-        return render_template("temp.html")
+        InsertUser(data)
+        return render_template("index.html")
 
 # 登录操作
 @app.route('/Login')
 def Login():
-    nickname = request.args.get("nickname")
+    email = request.args.get("email")
     password = request.args.get("password")
 
-    password_con = read_user(nickname)
+    password_con = ReadUser(email)
 
     while password_con != password:
-        return render_template("login_v1.html")
+        return render_template("login.html")
 
     if password_con == password:
-        return render_template("temp.html")
+        return render_template("index.html")
 
 # 搜索
 @app.route('/Find_by_School')
 def Find_by_School():
-    university = request.args.get("school")
+    university = request.args.get("fname")
     university = '%' + university + '%'
-    length, name, country, _, _, majors, _, _, _ = read(university=university)
+
+    length, names, country, university, awards, majors, _, _, _ = Read(university=university)
 
     return render_template("prolist.html",
-                           length=length, name=name, country=country,
-                           majors=majors
-                           )
+                           length=length, names=names, country=country,
+                           university=university,
+                           majors=majors)
 
 
 @app.route('/Find_by_Major')
 def Find_by_Major():
-    major = request.args.get("major")
+    major = request.args.get("fname")
     major = '%' + major + '%'
-    length, names, country, university, _, _, _, _, _ = read(majors=major)
+
+    length, names, country, university, awards, majors, _, _, _, = Read(majors=major)
 
     return render_template("prolist.html",
-                           length=length, names=names.tolist(), country=country,
-                           university=university
-                           )
+                           length=length, names=names, country=country,
+                           university=university,
+                           majors=majors)
 
 
-@app.route('/person')
+@app.route('/Find_by_Name')
 def Find_by_Name():
-    name = request.args.get("name")
-    country, university, awards, majors, papers, friends, info = read(name=name)
+    name = request.args.get("fname")
+    length, name, country, university, awards, majors, papers, friends, info = Read(name=name)
+
+    papers = papers[0].split(';')
+    friends = friends[0].split(';')
+    majors = majors[0].split(';')
 
     return render_template("person.html",
-                           name=name, country=country,
-                           university=university, awards=awards,
+                           name=" ".join(name), country=" ".join(country),
+                           university=" ".join(university), awards=" ".join(awards),
                            majors=majors, papers=papers,
                            friends=friends, info=info
                            )
 
+'''
+@app.route('/index')
+def Find():
+
+    idmajor = request.args.get("major")
+    idschool = request.args.get("school")
+    idname = request.args.get("name")
+
+    logging.info("idmajor:{}".format(idmajor))
+    logging.info("idschool:{}".format(idschool))
+    logging.info("idname:{}".format(idname))
+
+    if idmajor == "专业":
+        Find_by_Major()
+    elif idmajor == "学校":
+        Find_by_School()
+    elif idmajor == "姓名":
+        Find_by_Name()
+'''
 
 if __name__ == '__main__':
     # CreateDatabasePage()
-    # register()
-    # Login()
-    Index()
+    app.run()
+

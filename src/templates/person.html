@@ -1,136 +1,214 @@
 <!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>人物简介</title>
-</head>
-<body bgcolor="#F0FFFF">
-<body>
-
-<table align="center">
-    <tr>
-        <td colspan="2">
-            <div id="header">
-                <p style="text-align:center;">
-                    <h1>高校学者发现系统</h1>
-                </p>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-US">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <title>Exodus - Vintage HTML Template</title>
+        <meta name="description" content="lancio, business, launch, app, product, template, design, modern, elegant" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="keywords"  content="lancio, food, launch, app, product, template, design, modern, elegant" />
+        <meta name="Resource-type" content="Document" />
+        
+        <!-- Upload Font "https://fonts.google.com/" -->
+        <link href="https://fonts.googleapis.com/css?family=Montserrat:100,200,300,400,600,700&display=swap" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css?family=Playfair+Display:400,400i,700,700i,900,900i&display=swap" rel="stylesheet">
+        <!-- Bootstrap CSS -->
+        <link rel="stylesheet" type="text/css" href="../static/css/bootstrap.min.css"/>
+        <!-- Styles CSS -->
+        <link rel="stylesheet" type="text/css" href="../static/css/style.css" />
+        <link rel="stylesheet" type="text/css" href="../static/css/az-styles.css" />
+        <!-- Load Font Awesome Kit -->
+        <script src="https://kit.fontawesome.com/747940bb1c.js"></script>
+        <!-- Load Animate CSS -->
+        <link rel="stylesheet" type="text/css" href="../static/css/animate.css">
+        <!-- Load AOS CSS -->
+        <link rel="stylesheet" type="text/css" href="../static/css/aos.css">
+        <!-- Slick Slider CSS -->
+        <link rel="stylesheet" type="text/css" href="../static/css/slick.css">
+        <link rel="stylesheet" type="text/css" href="../static/css/slick-theme.css">
+        
+    </head>
+    <body class="white">
+        
+        <!-- Main Content Starts -->
+        <header class="b-green">
+            <div class="container"> 
+                <nav class="navbar navbar-expand-lg navbar-light">
+                <!-- Change path logo here -->
+                  <a class="navbar-brand logo" href="#"><img src="../static/assets/img/logo.png" alt="Exodus" class="img-fluid"></a>
+                   
+                  <!-- Collapse button -->
+                  <button class="navbar-toggler first-button" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
+                    aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="animated-icon"><span></span><span></span><span></span></span>
+                  </button>
+                  <!-- Collapsible content -->
+                  <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                    <ul class="navbar-nav ml-auto">
+                        <li class="nav-item">
+                            <a class="nav-link" href="index">搜索</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="login">登录</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="login">注册</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#testimonial">联系我们</a>
+                        </li>
+                        <li class="nav-item">
+                        <a class="nav-link " href="#testimonial"><i class="far fa-envelope"></i></a>
+                        </li>
+                    </ul>
+                  </div>
+                </nav>
+             </div>
+        </header>
+        
+        <!-- Section -->
+        <div id="about" class="section video"> 
+                <div class="container"> 
+                    <div class="content center">
+                        <div class="breadcrumb t-white mt-100">
+                            <a href="index.html" class="t-green">高校</a>学者发现系统
+                        </div>
+                    </div>
+                </div>
+            <!-- Video Background -->
+            <div class="video-back">
+                <div class="color-overlay op-7"></div>
+                <video autoplay loop muted>
+                    <source src="assets/video/wave.mp4" type="video/mp4">
+                </video>
             </div>
-        </td>
-    </tr>
-<tr>
+        </div><!-- Section Ends -->
+        
+        <!-- Section -->
+        <div class="section white"> 
+            <div class="container" id="posts"> 
+                <div class="content center paragraph">
+                    
+                    <h5 class="t-black">NO UZI</h5>
+                    <span class="line green"></span>
+                    <h1 class="t-black"> {{ name }} <span class="t-green">{{ awards }} </span></h1>
+                    <h6 class=""> {{ country }} </h6><h6 class="">{{ university }}</h6>
 
-    <td colspan="2">
-        <p align="left">
-            <h2>{{name}}</h2>
-            <img src="Gao.jpg" alt="照片" width="150px" height="200px" >
-        </p>
-    </td>   
-</tr>
-<div class="center">
-<td>
-<tr>
-    <td colspan="2"bgcolor="#87cefa">
-        <p>国籍</p>
-    </td>
-</tr>
+                    <h4 class="left mt-40">专业</h4>
+                    <p class="justify">
+                        {% for major in majors %}
+                        <a href="{{ major }}" >{{ major }}</a>
+                        {% endfor %}
+                    </p>
 
-    <tr>
-        <td colspan="1">
-     <p>{{country}}</p>
+                    <h4 class="left">学术论文</h4>
 
-        </td>
-    </tr>
-<tr>
-    <tr>
-    <td colspan="2"bgcolor="#87cefa">
-        <p>院校</p>
-    </td>
-</tr>
+                    {% for paper in papers %}
+                        <p class="justify">{{ paper}}</p>
+                    {% endfor %}
 
-    <tr>
-        <td colspan="1">
-     <p>{{university}}</p>
+                    <h4 class="left">合作学者</h4>
+                    <p class="justify">
+                        {% for friend in friends %}
+                        <a href="{{ friend }}" >{{ friend }}</a>
+                        {% endfor %}
+                    </p>
+                </div>
+            </div>
+        </div><!-- Section Ends -->
+        
 
-        </td>
-    </tr>
-<tr>
-    <tr>
-    <td colspan="2"bgcolor="#87cefa">
-        <p>荣誉</p>
-    </td>
-</tr>
+        
+        <!--动画，以后再弄
+        Section 
+        <div id="timeline" class="section white center">
+            <div class="container">
+                <h5 class="t-black">TIMELINE</h5>
+                <span class="line green"></span>
+                <h2 class="mt-20">Our <span class="t-green">journey</span> so far...</h2>
+                 TIMELINE
+                <div class="timeline-container">
+                    
+                    Timeline Item 
+                    <div class="tl-item" data-aos="fade-right" data-aos-anchor-placement="center-bottom">
+                        <span class="line b-moon"></span>
+                        <div class="date" >Oct 17 2005</div>
+                        <div class="img"><img src="assets/img/tl-1.jpg"  alt="exodus" class="img-fluid"></div>
+                        <div class="info light-grey">
+                            <h5>New York Office</h5>
+                            <div class="excerpt">We oppened our first office in the center of NY.</div>
+                        </div>
+                    </div>
+                    
+                     Timeline Item 
+                    <div class="tl-item b-moon" data-aos="fade-left" data-aos-anchor-placement="center-bottom">
+                        <span class="line b-moon"></span>
+                        <div class="date" >Feb 10 2006</div>
+                        <div class="img"><img src="assets/img/tl-2.jpg"  alt="exodus" class="img-fluid"></div>
+                        <div class="info light-grey">
+                            <h5>200+ destinations</h5>
+                            <div class="excerpt">Over 200 amazing destinations where added to our portfolio.</div>
+                        </div>
+                    </div>
+                    
+                    <!-- Timeline Item
+                    <div class="tl-item" data-aos="fade-left" data-aos-anchor-placement="center-bottom">
+                        <span class="line b-moon"></span>
+                        <div class="date" >Sep 29 2010</div>
+                        <div class="img"><img src="assets/img/tl-3.jpg"  alt="exodus" class="img-fluid"></div>
+                        <div class="info light-grey">
+                            <h5>Surfing</h5>
+                            <div class="excerpt">It's always good to take a small break.</div>
+                        </div>
+                    </div>
+                    
+                    <!-- Timeline Item 
+                    <div class="tl-item" data-aos="fade-right" data-aos-anchor-placement="center-bottom">
+                        <span class="line b-moon"></span>
+                        <div class="date" >Jun 03 2017</div>
+                        <div class="img"><img src="assets/img/tl-4.jpg"  alt="exodus" class="img-fluid"></div>
+                        <div class="info light-grey">
+                            <h5>1000+ flights</h5>
+                            <div class="excerpt">Partnership with Exodus Airlines to cover all destinations.</div>
+                        </div>
+                    </div>
+                    
+                    <!-- Timeline Item 
+                    <div class="tl-item" data-aos="fade-left" data-aos-anchor-placement="center-bottom">
+                        <span class="line b-moon"></span>
+                        <div class="date" >Jan 12 2019</div>
+                        <div class="img"><img src="assets/img/tl-5.jpg"  alt="exodus" class="img-fluid"></div>
+                        <div class="info light-grey">
+                            <h5>Australia Office</h5>
+                            <div class="excerpt">Less than 2 years later, with my good friend Lazy Dog, we opened an office in Sidney.</div>
+                        </div>
+                        <span class="line b-moon"></span>
+                    </div>
+                </div>
+            </div>
+        </div> 
+    -->
 
-    <tr>
-        <td colspan="1">
-     <p>{{awards}}</p>
-
-        </td>
-    </tr>
-<tr>
-<tr>
-    <td colspan="2"bgcolor="#87cefa">
-        <p>专业领域</p>
-    </td>
-</tr>
-
-    <tr>
-        <td colspan="1">
-     <p>{{majors}}</p>
-
-        </td>
-    </tr>
-<tr>
-    <td colspan="2"bgcolor="#87cefa">
-        <p>教授简介</p>
-    </td>
-</tr>
-
-    <tr>
-        <td colspan="1">
-     <p>{{info}}</p>
-         
-        </td>
-    </tr>
-
-    <tr>
-        <td colspan="2" bgcolor="#87cefa">
-            <p>论文发表</p>
-        </td>
-    </tr>
-
-    <tr>
-        <td colspan="2">
-       <p>{{papers}}</p>
-        </td>
-    </tr>
-        <tr>
-        <td colspan="2" bgcolor="#87cefa">
-            <p>合作学者</p>
-        </td>
-    </tr>
-
-    <tr>
-        <td colspan="2">
-       <p>{{friends}}</p>
-        </td>
-    </tr>
-   
-
-    
-            </table>
-        </td>
-    </tr>
-
-</table>
-
-</body>
+        
+            <!-- Footer -->
+            <footer>
+                <div class="container">
+                    <div class="links t-black">
+                        <a>高校学者发现系统</a>
+                        <br>
+                        <a>NO UZI</a>
+                    </div>
+                </div>
+            </footer>
+        
+        <!-- JS files upload -->
+        <script src="../static/js/jquery-3.4.1.min.js"></script>
+        <script src="../static/js/bootstrap.min.js"></script>
+        <script src="../static/js/popper.min.js"></script>
+        <script src="../static/js/slick.min.js"></script>
+        <script src="../static/js/validator.min.js"></script>
+        <script src="../static/js/contact.js"></script>
+        <script src="../static/js/main.js"></script>
+        <script src="../static/js/aos.js"></script>
+        
+    </body>
 </html>
-
-<style>
-#header{
-    background-color:CornFlowerBlue;
-    color:white;
-    text-align:center;
-    padding:20px;
-}
-</style>
