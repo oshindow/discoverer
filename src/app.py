@@ -141,7 +141,7 @@ def Find_by_School():
 
     length, names, country, university, awards, majors, _, _, _ = Read(university=university)
 
-    return render_template("prolist.html",
+    return render_template("searchprolist.html",
                            length=length, names=names, country=country,
                            university=university,
                            majors=majors)
@@ -154,7 +154,7 @@ def Find_by_Major():
 
     length, names, country, university, awards, majors, _, _, _, = Read(majors=major)
 
-    return render_template("prolist.html",
+    return render_template("searchprolist.html",
                            length=length, names=names, country=country,
                            university=university,
                            majors=majors)
