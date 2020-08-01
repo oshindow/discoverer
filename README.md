@@ -38,7 +38,7 @@ show tables;
 
 ### 连接数据库
 
-更改`src/app.py`中的 `pymysql.connect()` 参数为本地参数
+更改`src/connect.py`中的 `pymysql.connect()` 参数为本地参数
 ```
 ## Run
 ```
