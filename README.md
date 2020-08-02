@@ -16,7 +16,7 @@ A University Scholar Discovery System
 ```
 ### 导入网页/用户数据库
 
-进入mysql数据库控制台，终端输入命令：
+终端输入命令,进入mysql数据库控制台：
 
 mysql -u root -p
 
@@ -30,7 +30,7 @@ use database_name;
 
 ### 导入数据库:  
 
-source /path/to/database_name.sql
+source /path/to/databases/database_name.sql
 
 ### 检查是否导入成功：
 
@@ -48,4 +48,7 @@ show tables;
 * 从http://127.0.0.1:5000/index 进入网站
 ```
 # Author
-No Uzi
+Xintong Wang, Jinyu Liu, Qinhe Luo, Hanlu Chen, Mingze Li, Yimai Wang  
+
+Mathematics and Applied Mathematics  
+College of Science, Beijing Forestry University
