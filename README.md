@@ -50,5 +50,5 @@ show tables;
 # Author
 Xintong Wang, Jinyu Liu, Qinhe Luo, Hanlu Chen, Mingze Li, Yimai Wang  
 
-Mathematice and Applied Mathematics  
+Mathematics and Applied Mathematics  
 College of Science, Beijing Forestry University
