@@ -1,7 +1,7 @@
 import logging
 import pandas as pd
 
-from src.connect import connect_page, connect_user
+from connect import connect_page, connect_user
 from flask import Flask, render_template, request
 
 logging.basicConfig(
