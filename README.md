@@ -30,7 +30,7 @@ use database_name;
 
 ### 导入数据库:  
 
-source /path/to/database_name.sql
+source /path/to/databases/database_name.sql
 
 ### 检查是否导入成功：
 
