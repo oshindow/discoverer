@@ -106,7 +106,9 @@
                                     <div class="mainDIvMainInfoDivSubInfoDiv" >
                                         <div class="mainDivMainInfoiv_HeadTextDiv " >
                                             <div class="mainDivMainInfoiv_HeadTextDiv_TextBox cardInfoTitle findKey" >
-                                                {{ names[i] }}
+                                                <form action="Find_by_Name" method="get">
+                                                    <input type="submit" name="fname" value={{ names[i] }} style="margin:0;border:none;padding:0;background-repeat:no-repeat;height:20px;background:none" >
+                                                </form>
                                             </div>
                                         </div>
                                         <div class="mainDivMainInfoiv_mainTextDiv left findKey">

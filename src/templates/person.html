@@ -95,9 +95,11 @@
 
                     <h4 class="left mt-40">专业</h4>
                     <p class="justify">
+                    <form action="Find_by_Major" method="get">
                         {% for major in majors %}
-                        <a href="{{ major }}" >{{ major }}</a>
+                            <input type="submit" name="fname" value={{ major }} style="margin:0;border:none;padding:0;background-repeat:no-repeat;height:20px;background:none">
                         {% endfor %}
+                    </form>
                     </p>
 
                     <h4 class="left">学术论文</h4>

@@ -1,7 +1,7 @@
 import logging
 import pandas as pd
 
-from src.connect import connect_page, connect_user
+from connect import connect_page, connect_user
 from flask import Flask, render_template, request
 
 logging.basicConfig(
@@ -152,7 +152,7 @@ def Find_by_Major():
     major = request.args.get("fname")
     major = '%' + major + '%'
 
-    length, names, country, university, awards, majors, _, _, _, = Read(majors=major)
+    length, names, country, university, awards, majors, papers, friends, info = Read(majors=major)
 
     return render_template("searchprolist.html",
                            length=length, names=names, country=country,
