@@ -1,0 +1,305 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script src="https://cdn.staticfile.org/jquery/1.10.2/jquery.min.js"></script>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-US">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <title>Exodus - Vintage HTML Template</title>
+        <meta name="description" content="lancio, business, launch, app, product, template, design, modern, elegant" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="keywords"  content="lancio, food, launch, app, product, template, design, modern, elegant" />
+        <meta name="Resource-type" content="Document" />
+        
+        <!-- Upload Font "https://fonts.google.com/" -->
+        <link href="https://fonts.googleapis.com/css?family=Montserrat:100,200,300,400,600,700&display=swap" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css?family=Playfair+Display:400,400i,700,700i,900,900i&display=swap" rel="stylesheet">
+        <!-- Bootstrap CSS -->
+        <link rel="stylesheet" type="text/css" href="../static/css/bootstrap.min.css"/>
+        <!-- Styles CSS -->
+        <link rel="stylesheet" type="text/css" href="../static/css/style.css" />
+        <link rel="stylesheet" type="text/css" href="../static/css/az-styles.css" />
+        <!-- Load Font Awesome Kit -->
+        <script src="https://kit.fontawesome.com/747940bb1c.js"></script>
+        <!-- Load Animate CSS -->
+        <link rel="stylesheet" type="text/css" href="../static/css/animate.css">
+        <!-- Load AOS CSS -->
+        <link rel="stylesheet" type="text/css" href="../static/css/aos.css">
+        <!-- Slick Slider CSS -->
+        <link rel="stylesheet" type="text/css" href="../static/css/slick.css">
+        <link rel="stylesheet" type="text/css" href="../static/css/slick-theme.css">
+        
+    </head>
+    <body class="white">
+        
+        <!-- Main Content Starts -->
+        <header class="b-green">
+            <div class="container"> 
+                <nav class="navbar navbar-expand-lg navbar-light">
+                <!-- Change path logo here -->
+                  <a class="navbar-brand logo" href="#"><img src="../static/assets/img/logo.png" alt="Exodus" class="img-fluid"></a>
+                   
+                  <!-- Collapse button -->
+                  <button class="navbar-toggler first-button" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
+                    aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="animated-icon"><span></span><span></span><span></span></span>
+                  </button>
+                  <!-- Collapsible content -->
+                  <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                    <ul class="navbar-nav ml-auto">
+                        <li class="nav-item">
+                            <a class="nav-link" href="index">搜索</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="login">登录</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="login">注册</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#testimonial">联系我们</a>
+                        </li>
+                        <li class="nav-item">
+                        <a class="nav-link " href="#testimonial"><i class="far fa-envelope"></i></a>
+                        </li>
+                    </ul>
+                  </div>
+                </nav>
+             </div>
+        </header>
+        
+        <!-- Section -->
+        <div id="about" class="section video"> 
+                <div class="container"> 
+                    <div class="content center">
+                        <div class="breadcrumb t-white mt-100">
+                            <a href="index_session.html" class="t-green">高校</a>学者发现系统
+                        </div>
+                    </div>
+                </div>
+            <!-- Video Background -->
+            <div class="video-back">
+                <div class="color-overlay op-7"></div>
+                <video autoplay loop muted>
+                    <source src="../static/assets/video/wave.mp4" type="video/mp4">
+                </video>
+            </div>
+        </div><!-- Section Ends -->
+        
+        <!-- Section -->
+        <div class="section white"> 
+            <div class="container" id="posts"> 
+                <div class="content center paragraph">
+                    <h5 class="t-black">NO UZI</h5>
+
+                    <span class="line green"></span>
+                    <h1 class="t-black"> 搜 索 <span class="t-green">结 果 </span></h1>
+<!--                    <h5 class=""> 共搜索到<span>{{ length }}</span>条结果 </h5>-->
+                    <h5 class=""> 共搜索到<span>{{ length }}</span>条结果 </h5>
+                    <form action="Find_by_MaS" method="get">
+                        {{ form.Major_in_School.label }}
+                        {{ form.Major_in_School }}
+                        <input type="submit" name="fname" value={{ university }} style="margin:0;border:none;padding:0;background-repeat:no-repeat;height:20px;background:none" >
+                    </form>
+                    <!-- 结果框 -->
+                    
+                        <div id="mainContentDiv">
+                            <div class="mainDivMainInfoiv">
+                                <div class="mainInfoSubDiv">
+                                    {% for i in range( 0, length ) %}
+                                    <div class="mainDIvMainInfoDivSubInfoDiv" >
+                                        <div class="mainDivMainInfoiv_HeadTextDiv " >
+                                            <div class="mainDivMainInfoiv_HeadTextDiv_TextBox cardInfoTitle findKey" >
+                                                <form action="Find_by_Name" method="get">
+                                                    <input type="submit" name="fname" value={{ names[i] }} style="margin:0;border:none;padding:0;background-repeat:no-repeat;height:20px;background:none" >
+                                                </form>
+                                            </div>
+                                        </div>
+                                        <div class="mainDivMainInfoiv_mainTextDiv left findKey">
+                                          {{ country[i] }} {{ majors[i] }}
+                                        </div>
+                                    </div>
+                                    {% endfor %}
+
+                                </div>
+                            </div>
+                        </div>
+                     
+                </div>
+            </div>
+        </div><!-- Section Ends -->
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+                    <!-- Footer -->
+            <footer>
+                <div class="container">
+                    <div class="links t-black">
+                        <a>高校学者发现系统</a>
+                        <br>
+                        <a>NO UZI</a>
+                    </div>
+                </div>
+            </footer>
+        
+        <!-- JS files upload -->
+        <script src="../static/js/jquery-3.4.1.min.js"></script>
+        <script src="../static/js/bootstrap.min.js"></script>
+        <script src="../static/js/popper.min.js"></script>
+        <script src="../static/js/slick.min.js"></script>
+        <script src="../static/js/validator.min.js"></script>
+        <script src="../static/js/contact.js"></script>
+        <script src="../static/js/main.js"></script>
+        <script src="../static/js/aos.js"></script>
+        
+    </body>
+</html>
+
+</html>
+
+
+<style>
+body {
+    background: whitesmoke;
+
+}
+#mainContentDiv {
+    position: absolute;
+    width: 50%;
+    height: 100%;
+    background: whitesmoke;
+    top: 200%;
+    left: 25%;
+    bottom: 80%;
+
+}
+
+.mainDivMainImgDiv {
+    position: absolute;
+    width: 100%;
+    height: 120px;
+    background: white;
+
+}
+
+.mainDivMainInfoiv {
+
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background: whitesmoke;
+    top: 20px;
+}
+
+.mainInfoSubDiv{
+    position: relative;
+    width: 100%;
+    height: 100%;
+    background: whitesmoke;
+    overflow-y: auto;
+    overflow-x: hidden;
+}
+
+.headLeftDiv {
+    position: absolute;
+    width: 50%;
+    height: 100%;
+    left: 4%;
+    top: 25%;
+}
+
+.headLeftDivFont {
+    font-weight: 500;
+    /*line-height: 58px;*/
+    font-size: 20px;
+    color: #333;
+}
+
+.headRightDiv {
+    position: absolute;
+    width: 40%;
+    height: 100%;
+    right: 2%;
+    top: 20%;
+}
+
+
+.link-top {
+    position: absolute;
+    top: 60%;
+    left: 4%;
+    width: 90%;
+    height: 1px;
+    border-top: solid #e8edf3 1px;
+}
+
+.headLineBlowDiv {
+    position: absolute;
+    top: 63%;
+    height: 40%;
+    width: 100%;
+}
+
+.mainDIvMainInfoDivSubInfoDiv {
+    position: relative;
+    width: 100%;
+    height: 13%;
+    background: white;
+    border: 1px solid #eaeaea;
+}
+
+
+.mainDIvMainInfoDivSubInfoDiv:hover {
+    background: rgba(0, 0, 0, 0.05);
+}
+
+
+.mainDivMainInfoiv_HeadTextDiv {
+    position: absolute;
+    top: 10%;
+    left: 4%;
+    width: 30%;
+    height: 30%;
+    background: rgba(0, 0, 0, 0);
+
+}
+
+.mainDivMainInfoiv_mainTextDiv {
+    position: absolute;
+    top: 52%;
+    left: 4%;
+    width: 80%;
+    background: rgba(0, 0, 0, 0);
+
+    overflow: hidden;
+    text-overflow:ellipsis;
+    display:-webkit-box;
+    -webkit-box-orient:vertical;
+    -webkit-line-clamp:2;
+    font-size: 12px;
+    color: rgb(102, 102, 102);
+}
+
+
+.mainDivMainInfoiv_HeadTextDiv_TextBox {
+    position: absolute;
+    top: 25%;
+    width: 100%;
+    height: 50%;
+
+    background: rgba(0, 0, 0, 0);
+
+}
+
+.cardInfoTitle {
+    font-weight: 700;
+    /*color: #1f264d;*/
+    height: 50px;
+    display: block;
+    max-width: 60px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    cursor: pointer;
+}
+</style>

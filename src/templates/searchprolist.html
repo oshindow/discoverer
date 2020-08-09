@@ -75,7 +75,7 @@
                 <div class="container"> 
                     <div class="content center">
                         <div class="breadcrumb t-white mt-100">
-                            <a href="index.html" class="t-green">高校</a>学者发现系统
+                            <a href="index_session.html" class="t-green">高校</a>学者发现系统
                         </div>
                     </div>
                 </div>
@@ -96,23 +96,23 @@
 
                     <span class="line green"></span>
                     <h1 class="t-black"> 搜 索 <span class="t-green">结 果 </span></h1>
-                    <h5 class=""> 共搜索到<span>{{ length }}</span>条结果 </h5>
+                    <h5 class=""> 共搜索到<span>{{ names |length }}</span>条结果 </h5>
                     <!-- 结果框 -->
                     
                         <div id="mainContentDiv">
                             <div class="mainDivMainInfoiv">
                                 <div class="mainInfoSubDiv">
-                                    {% for i in range( 0, length ) %}
+                                    {% for i in range( 0, names| length ) %}
                                     <div class="mainDIvMainInfoDivSubInfoDiv" >
                                         <div class="mainDivMainInfoiv_HeadTextDiv " >
                                             <div class="mainDivMainInfoiv_HeadTextDiv_TextBox cardInfoTitle findKey" >
-                                                <form action="Find_by_Name" method="get">
+                                                <form action="Find_by_Author" method="get">
                                                     <input type="submit" name="fname" value={{ names[i] }} style="margin:0;border:none;padding:0;background-repeat:no-repeat;height:20px;background:none" >
                                                 </form>
                                             </div>
                                         </div>
                                         <div class="mainDivMainInfoiv_mainTextDiv left findKey">
-                                          {{ country[i] }}  {{ university[i] }} {{ majors[i] }}
+                                            {{ university[i]}} {{awards[i]}} {{ majors[i] }}
                                         </div>
                                     </div>
                                     {% endfor %}

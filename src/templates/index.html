@@ -251,25 +251,33 @@
                     <h6 class="center">
                         <br>
                     </h6>
-                    <div id="fields">
+
                         <!-- 输入框-->
                         <!-- CONTACT Form-->
-                        <form action="Find_by_Name" method="get">
+                        <form action="Find" method="get">
                         <div id="contact-form">
                             <div id="note" class="messages t-dark"></div>
                             <div class="controls center newsletter">
-                                <!-- form-group-->
+                                {{ form.SearchMethod.label }}
+                                {{ form.SearchMethod }}
+                                {{ form.method.label }}
+                                {{ form.method }}
+                                {{ form.submit }}
+                                <!-- form-group>
 
                                 <div class="form-group">
                                     <div class="input-item form-group">
                                         <input type="text"  name="fname" class="form-control light-grey" placeholder="请在这里输入想要查找的内容*" required="required">
-                                    <!--此处强行跳转到页面search-->
+                                    <此处强行跳转到页面search>
                                         <input type="submit" name="submit" class="primary-btn large square-bl square-tl black t-snow" value="搜索姓名">
                                     </div>
                                 </div>
+                               </form-->
                             </div>
                         </div>
                         </form>
+
+
                         <!--script >
                             function test(){
 
@@ -279,41 +287,51 @@
 
                         <!-- 输入框-->
                         <!-- CONTACT Form-->
-                        <form action="Find_by_Major" method="get">
+
                         <div id="contact-form">
                             <div id="note" class="messages t-dark"></div>
                             <div class="controls center newsletter">
-                                <!-- form-group-->
+
+
+                                <!-- form-group>
                                 <div class="form-group">
                                     <div class="input-item form-group">
                                         <input type="text"  name="fname" class="form-control light-grey" placeholder="请在这里输入想要查找的内容*" required="required">
-                                    <!--此处强行跳转到页面search-->
+                                    <此处强行跳转到页面search>
                                         <input type="submit" name="submit" id="submit1" class="primary-btn large square-bl square-tl black t-snow" value="搜索专业">
-                                    </div>
+
                                 </div>
+
+                                </div>
+                                <此处强行跳转到页面search-->
                             </div>
                         </div>
-                        </form>
+
+
                         <!-- 输入框-->
                         <!-- CONTACT Form-->
-                        <form action="Find_by_School" method="get">
                         <div id="contact-form">
                             <div id="note" class="messages t-dark"></div>
                             <div class="controls center newsletter">
-                                <!-- form-group-->
+
+                                <!-- form-group>
                                 <div class="form-group">
                                     <div class="input-item form-group">
                                         <input type="text"  name="fname" class="form-control light-grey" placeholder="请在这里输入想要查找的内容*" required="required">
-                                    <!--此处强行跳转到页面search-->
-                                        <input type="submit" name="submit" id="submit1" class="primary-btn large square-bl square-tl black t-snow" value="搜索院校">
-                                    </div>
+                                    <此处强行跳转到页面search>
+                                        <input type="submit" name="submit" id="submit1" class="primary-btn large square-bl square-tl black t-snow" value="搜索专业">
+
                                 </div>
+
+                                </div>
+                                <此处强行跳转到页面search-->
                             </div>
                         </div>
-                        </form>
 
-                    </div>
+
+
                 </div>
+
                 <!-- 去掉了三个好看的图标，以后再搞
                     <h5 class="t-black mt-100">stay connected</h5>
                     <span class="line green "></span>
