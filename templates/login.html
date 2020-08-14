@@ -1,0 +1,212 @@
+<!-- 登陆注册-->
+<!-- Author: 罗沁鹤 -->
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>登录注册界面</title>
+<!-- Meta-Tags -->
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="keywords" content="Existing Login Form Widget Responsive, Login Form Web Template, Flat Pricing Tables, Flat Drop-Downs, Sign-Up Web Templates, Flat Web Templates, Login Sign-up Responsive Web Template, Smartphone Compatible Web Template, Free Web Designs for Nokia, Samsung, LG, Sony Ericsson, Motorola Web Design">
+<script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); } </script>
+<!-- //Meta-Tags -->
+
+<link href="../static/css/popuo-box.css" rel="stylesheet" type="text/css" media="all" />
+
+<!-- Style --> <link rel="stylesheet" href="../static/css/styleforlogin.css" type="text/css" media="all">
+<link rel="stylesheet" href="../static/layui/css/layui.css">
+<script src="../static/layui/layui.js"></script>
+    <script>
+        layui.use(['layer', 'form'], function(){
+            var layer = layui.layer
+                ,form = layui.form;
+        });
+        function sleep(milliSeconds) {
+            var startTime = new Date().getTime();
+            while (new Date().getTime() < startTime + milliSeconds);
+            }
+
+        function registerCheck(){
+            var email = $("#regemail").val();             //email
+            var password = $("#password").val();
+            var password_con = $("#password_con").val();
+            var eflag = false;
+            var pflag = false;
+            $.ajax({
+                url: "/registercheck",
+                type: "post",
+                async: false,
+                data: {"email": email},
+                success: function (data) {
+                    console.log(data)
+                    if(data == "exit"){
+                    layer.msg('该邮箱已被注册',);
+                        eflag = false;
+                    }else{
+                        eflag = true;
+                    }
+                }
+            })
+            if (password!=password_con){
+                layer.msg('两次输入密码不一致',)
+                pflag = false;
+            }else {
+                pflag = true;
+            }
+            console.log(pflag);
+            console.log(eflag);
+            if (pflag && eflag){
+                layer.msg('注册成功');
+                return true;
+            }
+            else{
+                return false;
+            }
+        }
+        function loginCheck() {
+            var email = $("#logemail").val();             //email
+            var password = $("#logpassword").val();
+            var flag = false;
+            $.ajax({
+                url: "/logcheck",
+                type: "post",
+                async: false,
+                data: {"email": email,"password": password},
+                success: function (data) {
+                    console.log(data)
+                    if (data == "none") {
+                        layer.msg('用户不存在');
+                        flag = false;
+                    } else if(data == "nomatch") {
+                        layer.msg('密码不正确');
+                        flag = false;
+                    }
+                        else{
+                            layer.msg('登陆成功');
+                        flag = true;
+                        }
+                    }
+                })
+            return flag
+        }
+    </script>
+
+</head>
+<!-- //Head -->
+
+<!-- Body -->
+<body>
+	<br>
+	<br>
+	<br>
+	<div class="w3layoutscontaineragileits">
+	<h2>登录</h2>
+		<form action="Login" method="post" onsubmit="return loginCheck()">
+			<input type="email" Name="email" id="logemail" placeholder="邮箱" required>
+			<input type="password" Name="password" id="logpassword" placeholder="PASSWORD" required>
+			<ul class="agileinfotickwthree">
+				<li>
+					<input type="checkbox" id="brand1" value="">
+					<label for="brand1"><span></span>记住密码</label>
+					<!--<a href="#">Forgot password?</a> 暂时不会搞忘记密码-->
+				</li>
+			</ul>
+			<div class="aitssendbuttonw3ls">
+				<input type="submit" value="登录">
+				<p>想要创建一个新的用户？<span>→</span> <a class="w3_play_icon1" href="#small-dialog1"> 点击这里</a></p>
+				<div class="clear"></div>
+			</div>
+		</form>
+	</div>
+	
+	<!-- 创建新用户弹窗 for register popup -->
+	<div id="small-dialog1" class="mfp-hide">
+		<div class="contact-form1">
+			<div class="contact-w3-agileits">
+				<h3>用户注册</h3>
+				<form action="Register" method="post" id="regcheck" onsubmit="return registerCheck()">
+						<div class="form-sub-w3ls">
+							<input placeholder="用户名"  type="text" name="nickname" required>
+							<div class="icon-agile">
+								<i class="fa fa-user" aria-hidden="true"></i>
+							</div>
+						</div>
+						<div class="form-sub-w3ls">
+							<input placeholder="邮箱" id="regemail" class="mail" type="email" name="email" required>
+							<div class="icon-agile">
+								<i class="" aria-hidden="true"></i>
+							</div>
+						</div>
+						<div class="form-sub-w3ls">
+							<input placeholder="机构"  type="text" name="institution" required>
+							<div class="icon-agile">
+								<i class="fa fa-user" aria-hidden="true"></i>
+							</div>
+						</div>
+						<div class="form-sub-w3ls">
+							<input placeholder="身份"  type="text" name="identity" required>
+							<div class="icon-agile">
+								<i class="fa fa-user" aria-hidden="true"></i>
+							</div>
+						</div>
+						<div class="form-sub-w3ls">
+							<input placeholder="密码"  id="password" type="password" name="password" required>
+							<div class="icon-agile">
+								<i class="fa fa-unlock-alt" aria-hidden="true"></i>
+							</div>
+						</div>
+						<div class="form-sub-w3ls">
+							<input placeholder="确认密码" id="password_con" type="password" name="password_con" required>
+							<div class="icon-agile">
+								<i class="fa fa-unlock-alt" aria-hidden="true"></i>
+							</div>
+						</div>
+					<!-- 同意条款也不搞了
+					<div class="login-check">
+						 <label class="checkbox"><input type="checkbox" name="checkbox" checked="">同意条款</label>
+					</div>-->
+					<div class="submit-w3l">
+						<input type="submit" value="注册">
+					</div>
+				</form>
+			</div>
+		</div>	
+	</div>
+	<!-- //for register popup -->
+	
+	<div class="no uzi">
+		<br>
+		<br>
+		<h4>高校学者发现系统</h4>
+		<h5>no uzi</h5>
+		<br>
+	</div>
+
+	
+	<script type="text/javascript" src="../static/js/jquery-2.1.4.min.js"></script>
+
+	<!-- pop-up-box-js-file -->  
+		<script src="../static/js/jquery.magnific-popup.js" type="text/javascript"></script>
+	<!--//pop-up-box-js-file -->
+	<script>
+		$(document).ready(function() {
+		$('.w3_play_icon,.w3_play_icon1,.w3_play_icon2').magnificPopup({
+			type: 'inline',
+			fixedContentPos: false,
+			fixedBgPos: true,
+			overflowY: 'auto',
+			closeBtnInside: true,
+			preloader: false,
+			midClick: true,
+			removalDelay: 300,
+			mainClass: 'my-mfp-zoom-in'
+		});
+																		
+		});
+	</script>
+
+</body>
+<!-- //Body -->
+
+</html>

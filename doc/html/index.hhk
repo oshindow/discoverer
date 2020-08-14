@@ -1,0 +1,1113 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML><HEAD></HEAD><BODY>
+<OBJECT type="text/site properties">
+<param name="FrameName" value="right">
+</OBJECT>
+<UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacecrawler_1_1connect.html#a0f30514574efc626951da0cc8706c07d"><param name="Name" value="CreateBJFU"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacecrawler_1_1connect.html#a0f30514574efc626951da0cc8706c07d"><param name="Name" value="connect.py"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacecrawler_1_1connect.html#a0f30514574efc626951da0cc8706c07d"><param name="Name" value="CreateBJFU"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacecrawler_1_1connect.html#a0f30514574efc626951da0cc8706c07d"><param name="Name" value="crawler::connect"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacecrawler_1_1connect.html#a0dce0fd1d4ddace1ddfaeb702fa16dfe"><param name="Name" value="CreateCKNI"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacecrawler_1_1connect.html#a0dce0fd1d4ddace1ddfaeb702fa16dfe"><param name="Name" value="connect.py"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacecrawler_1_1connect.html#a0dce0fd1d4ddace1ddfaeb702fa16dfe"><param name="Name" value="CreateCKNI"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacecrawler_1_1connect.html#a0dce0fd1d4ddace1ddfaeb702fa16dfe"><param name="Name" value="crawler::connect"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacecrawler_1_1connect.html#ace43997ebe620401f12e51f5e35bc841"><param name="Name" value="CreateGlobal"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacecrawler_1_1connect.html#ace43997ebe620401f12e51f5e35bc841"><param name="Name" value="connect.py"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacecrawler_1_1connect.html#ace43997ebe620401f12e51f5e35bc841"><param name="Name" value="CreateGlobal"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacecrawler_1_1connect.html#ace43997ebe620401f12e51f5e35bc841"><param name="Name" value="crawler::connect"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceconnect.html#adb70cd13b3cdce1416c6bb7f33f1369a"><param name="Name" value="CreateUser"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceconnect.html#adb70cd13b3cdce1416c6bb7f33f1369a"><param name="Name" value="connect"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceconnect.html#adb70cd13b3cdce1416c6bb7f33f1369a"><param name="Name" value="CreateUser"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceconnect.html#adb70cd13b3cdce1416c6bb7f33f1369a"><param name="Name" value="connect.py"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="md__r_e_a_d_m_e.html"><param name="Name" value="Discoverer"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceapp.html#a23566524d2fdf58bc16cc85810b33253"><param name="Name" value="Find"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceapp.html#a23566524d2fdf58bc16cc85810b33253"><param name="Name" value="app"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceapp.html#a23566524d2fdf58bc16cc85810b33253"><param name="Name" value="Find"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceapp.html#a23566524d2fdf58bc16cc85810b33253"><param name="Name" value="app.py"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceapp.html#afe5b685f43299673d27a2ba4c406406f"><param name="Name" value="Find_by_Author"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceapp.html#afe5b685f43299673d27a2ba4c406406f"><param name="Name" value="app"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceapp.html#afe5b685f43299673d27a2ba4c406406f"><param name="Name" value="Find_by_Author"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceapp.html#afe5b685f43299673d27a2ba4c406406f"><param name="Name" value="app.py"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceapp.html#af192874da7a7640d9f7b511ae0b81e96"><param name="Name" value="Find_by_Field"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceapp.html#af192874da7a7640d9f7b511ae0b81e96"><param name="Name" value="app"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceapp.html#af192874da7a7640d9f7b511ae0b81e96"><param name="Name" value="Find_by_Field"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceapp.html#af192874da7a7640d9f7b511ae0b81e96"><param name="Name" value="app.py"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceapp.html#af5ff4b9ef5ad6056720c7ac753c90f4a"><param name="Name" value="Find_by_MaS"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceapp.html#af5ff4b9ef5ad6056720c7ac753c90f4a"><param name="Name" value="app"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceapp.html#af5ff4b9ef5ad6056720c7ac753c90f4a"><param name="Name" value="Find_by_MaS"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceapp.html#af5ff4b9ef5ad6056720c7ac753c90f4a"><param name="Name" value="app.py"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceapp.html#af1ed3c4087dc14b85145b7bbeada5823"><param name="Name" value="Find_by_Major"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceapp.html#af1ed3c4087dc14b85145b7bbeada5823"><param name="Name" value="app"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceapp.html#af1ed3c4087dc14b85145b7bbeada5823"><param name="Name" value="Find_by_Major"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceapp.html#af1ed3c4087dc14b85145b7bbeada5823"><param name="Name" value="app.py"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceapp.html#a0e343a6390e33d4fa857f2b83abb5508"><param name="Name" value="Find_by_Name"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceapp.html#a0e343a6390e33d4fa857f2b83abb5508"><param name="Name" value="app"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceapp.html#a0e343a6390e33d4fa857f2b83abb5508"><param name="Name" value="Find_by_Name"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceapp.html#a0e343a6390e33d4fa857f2b83abb5508"><param name="Name" value="app.py"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceapp.html#a5bd9ab602ba6994caa3c29cbc3d3123b"><param name="Name" value="Find_by_School"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceapp.html#a5bd9ab602ba6994caa3c29cbc3d3123b"><param name="Name" value="app"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceapp.html#a5bd9ab602ba6994caa3c29cbc3d3123b"><param name="Name" value="Find_by_School"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceapp.html#a5bd9ab602ba6994caa3c29cbc3d3123b"><param name="Name" value="app.py"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacecrawler_1_1global.html#a83338bd316a305df1d3842a1ccd7ec27"><param name="Name" value="Global"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacecrawler_1_1global.html#a83338bd316a305df1d3842a1ccd7ec27"><param name="Name" value="crawler::global"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacecrawler_1_1global.html#a83338bd316a305df1d3842a1ccd7ec27"><param name="Name" value="Global"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacecrawler_1_1global.html#a83338bd316a305df1d3842a1ccd7ec27"><param name="Name" value="global.py"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceapp.html#a3d77123cbb02349fcf35bc015cc2c2c7"><param name="Name" value="Index"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceapp.html#a3d77123cbb02349fcf35bc015cc2c2c7"><param name="Name" value="app"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceapp.html#a3d77123cbb02349fcf35bc015cc2c2c7"><param name="Name" value="Index"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceapp.html#a3d77123cbb02349fcf35bc015cc2c2c7"><param name="Name" value="app.py"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacecrawler_1_1connect.html#a49702681d4e6a688c3a1e9cbbe707453"><param name="Name" value="Insert"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacecrawler_1_1connect.html#a49702681d4e6a688c3a1e9cbbe707453"><param name="Name" value="connect.py"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacecrawler_1_1connect.html#a49702681d4e6a688c3a1e9cbbe707453"><param name="Name" value="Insert"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacecrawler_1_1connect.html#a49702681d4e6a688c3a1e9cbbe707453"><param name="Name" value="crawler::connect"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacecrawler_1_1connect.html#a592b9175af6fe8f5782fe90ac523d110"><param name="Name" value="InsertGlobal"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacecrawler_1_1connect.html#a592b9175af6fe8f5782fe90ac523d110"><param name="Name" value="connect.py"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacecrawler_1_1connect.html#a592b9175af6fe8f5782fe90ac523d110"><param name="Name" value="InsertGlobal"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacecrawler_1_1connect.html#a592b9175af6fe8f5782fe90ac523d110"><param name="Name" value="crawler::connect"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceconnect.html#aafd0d20592b0b82a280bdfbfd79e4bc4"><param name="Name" value="InsertUser"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceconnect.html#aafd0d20592b0b82a280bdfbfd79e4bc4"><param name="Name" value="connect"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceconnect.html#aafd0d20592b0b82a280bdfbfd79e4bc4"><param name="Name" value="InsertUser"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceconnect.html#aafd0d20592b0b82a280bdfbfd79e4bc4"><param name="Name" value="connect.py"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacecrawler_1_1connect.html#a00154ce4ba7a7f4e3c8cc9872cbffcaa"><param name="Name" value="Insert_author"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacecrawler_1_1connect.html#a00154ce4ba7a7f4e3c8cc9872cbffcaa"><param name="Name" value="connect.py"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacecrawler_1_1connect.html#a00154ce4ba7a7f4e3c8cc9872cbffcaa"><param name="Name" value="Insert_author"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacecrawler_1_1connect.html#a00154ce4ba7a7f4e3c8cc9872cbffcaa"><param name="Name" value="crawler::connect"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacecrawler_1_1connect.html#a4dbca0f29cf4d10d09e35e3db9aa0f5e"><param name="Name" value="Insert_paper"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacecrawler_1_1connect.html#a4dbca0f29cf4d10d09e35e3db9aa0f5e"><param name="Name" value="connect.py"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacecrawler_1_1connect.html#a4dbca0f29cf4d10d09e35e3db9aa0f5e"><param name="Name" value="Insert_paper"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacecrawler_1_1connect.html#a4dbca0f29cf4d10d09e35e3db9aa0f5e"><param name="Name" value="crawler::connect"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceapp.html#aa0405b07036b67c828abf4eb3e00ea8d"><param name="Name" value="Journal"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceapp.html#aa0405b07036b67c828abf4eb3e00ea8d"><param name="Name" value="app"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceapp.html#aa0405b07036b67c828abf4eb3e00ea8d"><param name="Name" value="Journal"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceapp.html#aa0405b07036b67c828abf4eb3e00ea8d"><param name="Name" value="app.py"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacedraw.html#aa80cedbd9395040c738bb42c1355e16f"><param name="Name" value="JournalData"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacedraw.html#aa80cedbd9395040c738bb42c1355e16f"><param name="Name" value="draw"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacedraw.html#aa80cedbd9395040c738bb42c1355e16f"><param name="Name" value="JournalData"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacedraw.html#aa80cedbd9395040c738bb42c1355e16f"><param name="Name" value="draw.py"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceapp.html#accdb7ab997bcd51b8c12a90539dac5f9"><param name="Name" value="Login"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceapp.html#accdb7ab997bcd51b8c12a90539dac5f9"><param name="Name" value="app"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceapp.html#accdb7ab997bcd51b8c12a90539dac5f9"><param name="Name" value="Login"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceapp.html#accdb7ab997bcd51b8c12a90539dac5f9"><param name="Name" value="app.py"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceapp.html#a3a7283027e408a60bbef6165edf97c20"><param name="Name" value="Logout"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceapp.html#a3a7283027e408a60bbef6165edf97c20"><param name="Name" value="app"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceapp.html#a3a7283027e408a60bbef6165edf97c20"><param name="Name" value="Logout"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceapp.html#a3a7283027e408a60bbef6165edf97c20"><param name="Name" value="app.py"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classapp_1_1_search_form.html#a96766a443db23e870ecef4bb6e6865e5"><param name="Name" value="MajorInSchool"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceapp.html#a221445afe7384250fb6880f055ebe0d9"><param name="Name" value="Map"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceapp.html#a221445afe7384250fb6880f055ebe0d9"><param name="Name" value="app"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceapp.html#a221445afe7384250fb6880f055ebe0d9"><param name="Name" value="Map"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceapp.html#a221445afe7384250fb6880f055ebe0d9"><param name="Name" value="app.py"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacedraw.html#acf2eb8b4c8e0ee4eaa0dbe7b890ebf42"><param name="Name" value="MapData"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacedraw.html#acf2eb8b4c8e0ee4eaa0dbe7b890ebf42"><param name="Name" value="draw"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacedraw.html#acf2eb8b4c8e0ee4eaa0dbe7b890ebf42"><param name="Name" value="MapData"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacedraw.html#acf2eb8b4c8e0ee4eaa0dbe7b890ebf42"><param name="Name" value="draw.py"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classapp_1_1_search_form.html#ad61443e794488144b7994f0c899e683a"><param name="Name" value="NameIndex"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceapp.html#a91c24169fad2a57ad6dd1fa235e9ff26"><param name="Name" value="NameOrder"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceapp.html#a91c24169fad2a57ad6dd1fa235e9ff26"><param name="Name" value="app"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceapp.html#a91c24169fad2a57ad6dd1fa235e9ff26"><param name="Name" value="NameOrder"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceapp.html#a91c24169fad2a57ad6dd1fa235e9ff26"><param name="Name" value="app.py"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceconnect.html#a361f1c0a06068417a6f55ee5af2279b7"><param name="Name" value="Read"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceconnect.html#a361f1c0a06068417a6f55ee5af2279b7"><param name="Name" value="connect"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceconnect.html#a361f1c0a06068417a6f55ee5af2279b7"><param name="Name" value="Read"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceconnect.html#a361f1c0a06068417a6f55ee5af2279b7"><param name="Name" value="connect.py"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceconnect.html#a1b850f6d4a2a354810d069f0018cfc8e"><param name="Name" value="ReadBJFU"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceconnect.html#a1b850f6d4a2a354810d069f0018cfc8e"><param name="Name" value="connect"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceconnect.html#a1b850f6d4a2a354810d069f0018cfc8e"><param name="Name" value="ReadBJFU"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceconnect.html#a1b850f6d4a2a354810d069f0018cfc8e"><param name="Name" value="connect.py"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceconnect.html#a6005ca515d9d04dcdaf0add05b9ffb16"><param name="Name" value="ReadUser"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceconnect.html#a6005ca515d9d04dcdaf0add05b9ffb16"><param name="Name" value="connect"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceconnect.html#a6005ca515d9d04dcdaf0add05b9ffb16"><param name="Name" value="ReadUser"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceconnect.html#a6005ca515d9d04dcdaf0add05b9ffb16"><param name="Name" value="connect.py"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceapp.html#aa00949e11cc157f33cbd11cdae9d94a9"><param name="Name" value="Register"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceapp.html#aa00949e11cc157f33cbd11cdae9d94a9"><param name="Name" value="app"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceapp.html#aa00949e11cc157f33cbd11cdae9d94a9"><param name="Name" value="Register"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceapp.html#aa00949e11cc157f33cbd11cdae9d94a9"><param name="Name" value="app.py"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classapp_1_1_search_form.html#aaa5171a6850c63e6ae41e7bc44031bef"><param name="Name" value="SearchMethod"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceapp.html#a111f7b78adfabfb4498107ed5eafff92"><param name="Name" value="Year"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceapp.html#a111f7b78adfabfb4498107ed5eafff92"><param name="Name" value="app"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceapp.html#a111f7b78adfabfb4498107ed5eafff92"><param name="Name" value="Year"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceapp.html#a111f7b78adfabfb4498107ed5eafff92"><param name="Name" value="app.py"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacedraw.html#a52c45f0a9e99b26478c387f215ed6fee"><param name="Name" value="YearsData"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacedraw.html#a52c45f0a9e99b26478c387f215ed6fee"><param name="Name" value="draw"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacedraw.html#a52c45f0a9e99b26478c387f215ed6fee"><param name="Name" value="YearsData"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacedraw.html#a52c45f0a9e99b26478c387f215ed6fee"><param name="Name" value="draw.py"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceapp.html"><param name="Name" value="app"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="app_8py.html"><param name="Name" value="app.py"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="app_8py.html#a23566524d2fdf58bc16cc85810b33253"><param name="Name" value="Find"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="app_8py.html"><param name="Name" value="app.py"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="app_8py.html#afe5b685f43299673d27a2ba4c406406f"><param name="Name" value="Find_by_Author"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="app_8py.html"><param name="Name" value="app.py"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="app_8py.html#af192874da7a7640d9f7b511ae0b81e96"><param name="Name" value="Find_by_Field"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="app_8py.html"><param name="Name" value="app.py"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="app_8py.html#af5ff4b9ef5ad6056720c7ac753c90f4a"><param name="Name" value="Find_by_MaS"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="app_8py.html"><param name="Name" value="app.py"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="app_8py.html#af1ed3c4087dc14b85145b7bbeada5823"><param name="Name" value="Find_by_Major"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="app_8py.html"><param name="Name" value="app.py"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="app_8py.html#a0e343a6390e33d4fa857f2b83abb5508"><param name="Name" value="Find_by_Name"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="app_8py.html"><param name="Name" value="app.py"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="app_8py.html#a5bd9ab602ba6994caa3c29cbc3d3123b"><param name="Name" value="Find_by_School"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="app_8py.html"><param name="Name" value="app.py"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="app_8py.html#a3d77123cbb02349fcf35bc015cc2c2c7"><param name="Name" value="Index"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="app_8py.html"><param name="Name" value="app.py"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="app_8py.html#aa0405b07036b67c828abf4eb3e00ea8d"><param name="Name" value="Journal"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="app_8py.html"><param name="Name" value="app.py"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="app_8py.html#accdb7ab997bcd51b8c12a90539dac5f9"><param name="Name" value="Login"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="app_8py.html"><param name="Name" value="app.py"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="app_8py.html#a3a7283027e408a60bbef6165edf97c20"><param name="Name" value="Logout"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="app_8py.html"><param name="Name" value="app.py"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="app_8py.html#a221445afe7384250fb6880f055ebe0d9"><param name="Name" value="Map"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="app_8py.html"><param name="Name" value="app.py"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="app_8py.html#a91c24169fad2a57ad6dd1fa235e9ff26"><param name="Name" value="NameOrder"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="app_8py.html"><param name="Name" value="app.py"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="app_8py.html#aa00949e11cc157f33cbd11cdae9d94a9"><param name="Name" value="Register"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="app_8py.html"><param name="Name" value="app.py"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="app_8py.html#a111f7b78adfabfb4498107ed5eafff92"><param name="Name" value="Year"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="app_8py.html"><param name="Name" value="app.py"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="app_8py.html#a675b4ea702c13dc4b8c05f985a25b496"><param name="Name" value="app"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="app_8py.html"><param name="Name" value="app.py"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="app_8py.html#ab4a362027d4aa3246e0e0f57ebf177b0"><param name="Name" value="debug"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="app_8py.html"><param name="Name" value="app.py"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="app_8py.html#a7cd83bd8e40fb13ae9a8f304d1bf07c0"><param name="Name" value="format"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="app_8py.html"><param name="Name" value="app.py"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="app_8py.html#a945cd6638431171676cc257366416b8d"><param name="Name" value="level"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="app_8py.html"><param name="Name" value="app.py"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="app_8py.html#a600d4519024634c14e1612d3aacf26c0"><param name="Name" value="login"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classapp_1_1_search_form.html"><param name="Name" value="app::SearchForm"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classapp_1_1_search_form.html"><param name="Name" value="app::SearchForm"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classapp_1_1_search_form.html#a96766a443db23e870ecef4bb6e6865e5"><param name="Name" value="MajorInSchool"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classapp_1_1_search_form.html"><param name="Name" value="app::SearchForm"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classapp_1_1_search_form.html#ad61443e794488144b7994f0c899e683a"><param name="Name" value="NameIndex"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classapp_1_1_search_form.html"><param name="Name" value="app::SearchForm"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classapp_1_1_search_form.html#aaa5171a6850c63e6ae41e7bc44031bef"><param name="Name" value="SearchMethod"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classapp_1_1_search_form.html"><param name="Name" value="app::SearchForm"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classapp_1_1_search_form.html#aa629ec816daa65fab46c84c45bd029d8"><param name="Name" value="method"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classapp_1_1_search_form.html"><param name="Name" value="app::SearchForm"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classapp_1_1_search_form.html#a0de1e1d66187e332e6b8c18acc7db8fa"><param name="Name" value="submit"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceapp.html"><param name="Name" value="app"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceapp.html#a23566524d2fdf58bc16cc85810b33253"><param name="Name" value="Find"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceapp.html"><param name="Name" value="app"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceapp.html#afe5b685f43299673d27a2ba4c406406f"><param name="Name" value="Find_by_Author"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceapp.html"><param name="Name" value="app"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceapp.html#af192874da7a7640d9f7b511ae0b81e96"><param name="Name" value="Find_by_Field"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceapp.html"><param name="Name" value="app"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceapp.html#af5ff4b9ef5ad6056720c7ac753c90f4a"><param name="Name" value="Find_by_MaS"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceapp.html"><param name="Name" value="app"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceapp.html#af1ed3c4087dc14b85145b7bbeada5823"><param name="Name" value="Find_by_Major"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceapp.html"><param name="Name" value="app"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceapp.html#a0e343a6390e33d4fa857f2b83abb5508"><param name="Name" value="Find_by_Name"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceapp.html"><param name="Name" value="app"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceapp.html#a5bd9ab602ba6994caa3c29cbc3d3123b"><param name="Name" value="Find_by_School"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceapp.html"><param name="Name" value="app"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceapp.html#a3d77123cbb02349fcf35bc015cc2c2c7"><param name="Name" value="Index"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceapp.html"><param name="Name" value="app"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceapp.html#aa0405b07036b67c828abf4eb3e00ea8d"><param name="Name" value="Journal"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceapp.html"><param name="Name" value="app"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceapp.html#accdb7ab997bcd51b8c12a90539dac5f9"><param name="Name" value="Login"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceapp.html"><param name="Name" value="app"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceapp.html#a3a7283027e408a60bbef6165edf97c20"><param name="Name" value="Logout"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceapp.html"><param name="Name" value="app"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceapp.html#a221445afe7384250fb6880f055ebe0d9"><param name="Name" value="Map"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceapp.html"><param name="Name" value="app"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceapp.html#a91c24169fad2a57ad6dd1fa235e9ff26"><param name="Name" value="NameOrder"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceapp.html"><param name="Name" value="app"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceapp.html#aa00949e11cc157f33cbd11cdae9d94a9"><param name="Name" value="Register"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceapp.html"><param name="Name" value="app"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceapp.html#a111f7b78adfabfb4498107ed5eafff92"><param name="Name" value="Year"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceapp.html"><param name="Name" value="app"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceapp.html#a675b4ea702c13dc4b8c05f985a25b496"><param name="Name" value="app"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceapp.html#a675b4ea702c13dc4b8c05f985a25b496"><param name="Name" value="app"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceapp.html#a675b4ea702c13dc4b8c05f985a25b496"><param name="Name" value="app.py"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceapp.html"><param name="Name" value="app"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceapp.html#ab4a362027d4aa3246e0e0f57ebf177b0"><param name="Name" value="debug"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceapp.html"><param name="Name" value="app"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceapp.html#a7cd83bd8e40fb13ae9a8f304d1bf07c0"><param name="Name" value="format"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceapp.html"><param name="Name" value="app"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceapp.html#a945cd6638431171676cc257366416b8d"><param name="Name" value="level"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceapp.html"><param name="Name" value="app"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceapp.html#a600d4519024634c14e1612d3aacf26c0"><param name="Name" value="login"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="bjfu_8py.html"><param name="Name" value="bjfu.py"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="bjfu_8py.html#aff464e76501874df088fc2f084efa0b8"><param name="Name" value="bjfu"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="bjfu_8py.html"><param name="Name" value="bjfu.py"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="bjfu_8py.html#a5f7d5936aa0ce304dc43e16828365f8a"><param name="Name" value="format"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="bjfu_8py.html"><param name="Name" value="bjfu.py"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="bjfu_8py.html#a6f50bdf045cfa216397a3cdf9ec5b8ca"><param name="Name" value="level"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacecrawler_1_1bjfu.html#aff464e76501874df088fc2f084efa0b8"><param name="Name" value="bjfu"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacecrawler_1_1bjfu.html#aff464e76501874df088fc2f084efa0b8"><param name="Name" value="bjfu.py"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacecrawler_1_1bjfu.html#aff464e76501874df088fc2f084efa0b8"><param name="Name" value="bjfu"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacecrawler_1_1bjfu.html#aff464e76501874df088fc2f084efa0b8"><param name="Name" value="crawler::bjfu"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="bjfu__advanced_8py.html"><param name="Name" value="bjfu_advanced.py"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="bjfu__advanced_8py.html#a0a2db6a568322969b47acaa6e095517f"><param name="Name" value="bjfu_advanced"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="bjfu__advanced_8py.html"><param name="Name" value="bjfu_advanced.py"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="bjfu__advanced_8py.html#a39b3d36b58b96c4498b35b6d34724d4a"><param name="Name" value="format"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="bjfu__advanced_8py.html"><param name="Name" value="bjfu_advanced.py"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="bjfu__advanced_8py.html#a6a8a545ade02e6759c3acf4de3a753b2"><param name="Name" value="level"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacecrawler_1_1bjfu__advanced.html#a0a2db6a568322969b47acaa6e095517f"><param name="Name" value="bjfu_advanced"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacecrawler_1_1bjfu__advanced.html#a0a2db6a568322969b47acaa6e095517f"><param name="Name" value="bjfu_advanced.py"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacecrawler_1_1bjfu__advanced.html#a0a2db6a568322969b47acaa6e095517f"><param name="Name" value="bjfu_advanced"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacecrawler_1_1bjfu__advanced.html#a0a2db6a568322969b47acaa6e095517f"><param name="Name" value="crawler::bjfu_advanced"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="bjfu__cos_8py.html"><param name="Name" value="bjfu_cos.py"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="bjfu__cos_8py.html#a54704ed2040c0f960febe8c1043d0b12"><param name="Name" value="bjfu_cos"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="bjfu__cos_8py.html"><param name="Name" value="bjfu_cos.py"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="bjfu__cos_8py.html#aa5bc9a6610f9ca1e208acf0504ac176d"><param name="Name" value="format"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="bjfu__cos_8py.html"><param name="Name" value="bjfu_cos.py"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="bjfu__cos_8py.html#a0883de04724fa620b5f9bcb6b0dc7abe"><param name="Name" value="level"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacecrawler_1_1bjfu__cos.html#a54704ed2040c0f960febe8c1043d0b12"><param name="Name" value="bjfu_cos"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacecrawler_1_1bjfu__cos.html#a54704ed2040c0f960febe8c1043d0b12"><param name="Name" value="bjfu_cos.py"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacecrawler_1_1bjfu__cos.html#a54704ed2040c0f960febe8c1043d0b12"><param name="Name" value="bjfu_cos"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacecrawler_1_1bjfu__cos.html#a54704ed2040c0f960febe8c1043d0b12"><param name="Name" value="crawler::bjfu_cos"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="ckni_8py.html"><param name="Name" value="ckni.py"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="ckni_8py.html#a11c15bb89a07284de3718ce06d972ad4"><param name="Name" value="driver"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="ckni_8py.html"><param name="Name" value="ckni.py"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="ckni_8py.html#a17077bf8d60f1f42f805857f6253c4ab"><param name="Name" value="field"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="ckni_8py.html"><param name="Name" value="ckni.py"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="ckni_8py.html#ae9dd3bbf04dfee5cd1cfc703b195a9c7"><param name="Name" value="fields"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="ckni_8py.html"><param name="Name" value="ckni.py"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="ckni_8py.html#adeb5ffafa92ee363316ee9f1cb487c31"><param name="Name" value="format"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="ckni_8py.html"><param name="Name" value="ckni.py"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="ckni_8py.html#a3aabef26d53c5995fa3413efd479d2a4"><param name="Name" value="level"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="ckni_8py.html"><param name="Name" value="ckni.py"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="ckni_8py.html#a1f579c64d6b9191ade933aaaa02da355"><param name="Name" value="scraping"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceconnect.html"><param name="Name" value="connect"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="crawler_2connect_8py.html"><param name="Name" value="connect.py"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="crawler_2connect_8py.html#a0f30514574efc626951da0cc8706c07d"><param name="Name" value="CreateBJFU"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="crawler_2connect_8py.html"><param name="Name" value="connect.py"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="crawler_2connect_8py.html#a0dce0fd1d4ddace1ddfaeb702fa16dfe"><param name="Name" value="CreateCKNI"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="crawler_2connect_8py.html"><param name="Name" value="connect.py"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="crawler_2connect_8py.html#ace43997ebe620401f12e51f5e35bc841"><param name="Name" value="CreateGlobal"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="connect_8py.html"><param name="Name" value="connect.py"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="connect_8py.html#adb70cd13b3cdce1416c6bb7f33f1369a"><param name="Name" value="CreateUser"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="crawler_2connect_8py.html"><param name="Name" value="connect.py"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="crawler_2connect_8py.html#a49702681d4e6a688c3a1e9cbbe707453"><param name="Name" value="Insert"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="crawler_2connect_8py.html"><param name="Name" value="connect.py"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="crawler_2connect_8py.html#a592b9175af6fe8f5782fe90ac523d110"><param name="Name" value="InsertGlobal"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="connect_8py.html"><param name="Name" value="connect.py"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="connect_8py.html#aafd0d20592b0b82a280bdfbfd79e4bc4"><param name="Name" value="InsertUser"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="crawler_2connect_8py.html"><param name="Name" value="connect.py"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="crawler_2connect_8py.html#a00154ce4ba7a7f4e3c8cc9872cbffcaa"><param name="Name" value="Insert_author"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="crawler_2connect_8py.html"><param name="Name" value="connect.py"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="crawler_2connect_8py.html#a4dbca0f29cf4d10d09e35e3db9aa0f5e"><param name="Name" value="Insert_paper"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="connect_8py.html"><param name="Name" value="connect.py"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="connect_8py.html#a361f1c0a06068417a6f55ee5af2279b7"><param name="Name" value="Read"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="connect_8py.html"><param name="Name" value="connect.py"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="connect_8py.html#a1b850f6d4a2a354810d069f0018cfc8e"><param name="Name" value="ReadBJFU"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="connect_8py.html"><param name="Name" value="connect.py"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="connect_8py.html#a6005ca515d9d04dcdaf0add05b9ffb16"><param name="Name" value="ReadUser"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="connect_8py.html"><param name="Name" value="connect.py"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="connect_8py.html#ad300c8ba4c768a84bfcaa43ebd175fc3"><param name="Name" value="connect_page"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="crawler_2connect_8py.html"><param name="Name" value="connect.py"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="crawler_2connect_8py.html#aeea9dc4d01e6f868bb1c8b981a23f351"><param name="Name" value="connect_page"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="connect_8py.html"><param name="Name" value="connect.py"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="connect_8py.html#a1f9a0db36847fa02612393dc1968056a"><param name="Name" value="connect_user"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="crawler_2connect_8py.html"><param name="Name" value="connect.py"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="crawler_2connect_8py.html#ae7dd697b8deb03bc449064e79ecc6261"><param name="Name" value="connect_user"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceconnect.html"><param name="Name" value="connect"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceconnect.html#adb70cd13b3cdce1416c6bb7f33f1369a"><param name="Name" value="CreateUser"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceconnect.html"><param name="Name" value="connect"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceconnect.html#aafd0d20592b0b82a280bdfbfd79e4bc4"><param name="Name" value="InsertUser"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceconnect.html"><param name="Name" value="connect"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceconnect.html#a361f1c0a06068417a6f55ee5af2279b7"><param name="Name" value="Read"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceconnect.html"><param name="Name" value="connect"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceconnect.html#a1b850f6d4a2a354810d069f0018cfc8e"><param name="Name" value="ReadBJFU"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceconnect.html"><param name="Name" value="connect"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceconnect.html#a6005ca515d9d04dcdaf0add05b9ffb16"><param name="Name" value="ReadUser"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceconnect.html"><param name="Name" value="connect"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceconnect.html#ad300c8ba4c768a84bfcaa43ebd175fc3"><param name="Name" value="connect_page"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceconnect.html"><param name="Name" value="connect"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceconnect.html#a1f9a0db36847fa02612393dc1968056a"><param name="Name" value="connect_user"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceconnect.html#ad300c8ba4c768a84bfcaa43ebd175fc3"><param name="Name" value="connect_page"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceconnect.html#ad300c8ba4c768a84bfcaa43ebd175fc3"><param name="Name" value="connect"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceconnect.html#ad300c8ba4c768a84bfcaa43ebd175fc3"><param name="Name" value="connect_page"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceconnect.html#ad300c8ba4c768a84bfcaa43ebd175fc3"><param name="Name" value="connect.py"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacecrawler_1_1connect.html#aeea9dc4d01e6f868bb1c8b981a23f351"><param name="Name" value="connect_page"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacecrawler_1_1connect.html#aeea9dc4d01e6f868bb1c8b981a23f351"><param name="Name" value="connect.py"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacecrawler_1_1connect.html#aeea9dc4d01e6f868bb1c8b981a23f351"><param name="Name" value="connect_page"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacecrawler_1_1connect.html#aeea9dc4d01e6f868bb1c8b981a23f351"><param name="Name" value="crawler::connect"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceconnect.html#a1f9a0db36847fa02612393dc1968056a"><param name="Name" value="connect_user"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceconnect.html#a1f9a0db36847fa02612393dc1968056a"><param name="Name" value="connect"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceconnect.html#a1f9a0db36847fa02612393dc1968056a"><param name="Name" value="connect_user"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceconnect.html#a1f9a0db36847fa02612393dc1968056a"><param name="Name" value="connect.py"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacecrawler_1_1connect.html#ae7dd697b8deb03bc449064e79ecc6261"><param name="Name" value="connect_user"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacecrawler_1_1connect.html#ae7dd697b8deb03bc449064e79ecc6261"><param name="Name" value="connect.py"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacecrawler_1_1connect.html#ae7dd697b8deb03bc449064e79ecc6261"><param name="Name" value="connect_user"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacecrawler_1_1connect.html#ae7dd697b8deb03bc449064e79ecc6261"><param name="Name" value="crawler::connect"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacecrawler.html"><param name="Name" value="crawler"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacecrawler_1_1bjfu.html"><param name="Name" value="crawler::bjfu"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacecrawler_1_1bjfu.html"><param name="Name" value="crawler::bjfu"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacecrawler_1_1bjfu.html#aff464e76501874df088fc2f084efa0b8"><param name="Name" value="bjfu"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacecrawler_1_1bjfu.html"><param name="Name" value="crawler::bjfu"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacecrawler_1_1bjfu.html#a5f7d5936aa0ce304dc43e16828365f8a"><param name="Name" value="format"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacecrawler_1_1bjfu.html"><param name="Name" value="crawler::bjfu"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacecrawler_1_1bjfu.html#a6f50bdf045cfa216397a3cdf9ec5b8ca"><param name="Name" value="level"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacecrawler_1_1bjfu__advanced.html"><param name="Name" value="crawler::bjfu_advanced"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacecrawler_1_1bjfu__advanced.html"><param name="Name" value="crawler::bjfu_advanced"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacecrawler_1_1bjfu__advanced.html#a0a2db6a568322969b47acaa6e095517f"><param name="Name" value="bjfu_advanced"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacecrawler_1_1bjfu__advanced.html"><param name="Name" value="crawler::bjfu_advanced"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacecrawler_1_1bjfu__advanced.html#a39b3d36b58b96c4498b35b6d34724d4a"><param name="Name" value="format"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacecrawler_1_1bjfu__advanced.html"><param name="Name" value="crawler::bjfu_advanced"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacecrawler_1_1bjfu__advanced.html#a6a8a545ade02e6759c3acf4de3a753b2"><param name="Name" value="level"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacecrawler_1_1bjfu__cos.html"><param name="Name" value="crawler::bjfu_cos"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacecrawler_1_1bjfu__cos.html"><param name="Name" value="crawler::bjfu_cos"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacecrawler_1_1bjfu__cos.html#a54704ed2040c0f960febe8c1043d0b12"><param name="Name" value="bjfu_cos"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacecrawler_1_1bjfu__cos.html"><param name="Name" value="crawler::bjfu_cos"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacecrawler_1_1bjfu__cos.html#aa5bc9a6610f9ca1e208acf0504ac176d"><param name="Name" value="format"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacecrawler_1_1bjfu__cos.html"><param name="Name" value="crawler::bjfu_cos"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacecrawler_1_1bjfu__cos.html#a0883de04724fa620b5f9bcb6b0dc7abe"><param name="Name" value="level"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacecrawler_1_1ckni.html"><param name="Name" value="crawler::ckni"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacecrawler_1_1ckni.html"><param name="Name" value="crawler::ckni"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacecrawler_1_1ckni.html#a11c15bb89a07284de3718ce06d972ad4"><param name="Name" value="driver"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacecrawler_1_1ckni.html"><param name="Name" value="crawler::ckni"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacecrawler_1_1ckni.html#a17077bf8d60f1f42f805857f6253c4ab"><param name="Name" value="field"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacecrawler_1_1ckni.html"><param name="Name" value="crawler::ckni"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacecrawler_1_1ckni.html#ae9dd3bbf04dfee5cd1cfc703b195a9c7"><param name="Name" value="fields"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacecrawler_1_1ckni.html"><param name="Name" value="crawler::ckni"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacecrawler_1_1ckni.html#adeb5ffafa92ee363316ee9f1cb487c31"><param name="Name" value="format"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacecrawler_1_1ckni.html"><param name="Name" value="crawler::ckni"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacecrawler_1_1ckni.html#a3aabef26d53c5995fa3413efd479d2a4"><param name="Name" value="level"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacecrawler_1_1ckni.html"><param name="Name" value="crawler::ckni"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacecrawler_1_1ckni.html#a1f579c64d6b9191ade933aaaa02da355"><param name="Name" value="scraping"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacecrawler_1_1connect.html"><param name="Name" value="crawler::connect"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacecrawler_1_1connect.html"><param name="Name" value="crawler::connect"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacecrawler_1_1connect.html#a0f30514574efc626951da0cc8706c07d"><param name="Name" value="CreateBJFU"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacecrawler_1_1connect.html"><param name="Name" value="crawler::connect"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacecrawler_1_1connect.html#a0dce0fd1d4ddace1ddfaeb702fa16dfe"><param name="Name" value="CreateCKNI"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacecrawler_1_1connect.html"><param name="Name" value="crawler::connect"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacecrawler_1_1connect.html#ace43997ebe620401f12e51f5e35bc841"><param name="Name" value="CreateGlobal"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacecrawler_1_1connect.html"><param name="Name" value="crawler::connect"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacecrawler_1_1connect.html#a49702681d4e6a688c3a1e9cbbe707453"><param name="Name" value="Insert"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacecrawler_1_1connect.html"><param name="Name" value="crawler::connect"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacecrawler_1_1connect.html#a592b9175af6fe8f5782fe90ac523d110"><param name="Name" value="InsertGlobal"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacecrawler_1_1connect.html"><param name="Name" value="crawler::connect"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacecrawler_1_1connect.html#a00154ce4ba7a7f4e3c8cc9872cbffcaa"><param name="Name" value="Insert_author"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacecrawler_1_1connect.html"><param name="Name" value="crawler::connect"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacecrawler_1_1connect.html#a4dbca0f29cf4d10d09e35e3db9aa0f5e"><param name="Name" value="Insert_paper"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacecrawler_1_1connect.html"><param name="Name" value="crawler::connect"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacecrawler_1_1connect.html#aeea9dc4d01e6f868bb1c8b981a23f351"><param name="Name" value="connect_page"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacecrawler_1_1connect.html"><param name="Name" value="crawler::connect"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacecrawler_1_1connect.html#ae7dd697b8deb03bc449064e79ecc6261"><param name="Name" value="connect_user"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacecrawler_1_1global.html"><param name="Name" value="crawler::global"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacecrawler_1_1global.html"><param name="Name" value="crawler::global"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacecrawler_1_1global.html#a83338bd316a305df1d3842a1ccd7ec27"><param name="Name" value="Global"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacecrawler_1_1global.html"><param name="Name" value="crawler::global"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacecrawler_1_1global.html#ab488f0b6c7a28aebb64f815d76757d79"><param name="Name" value="format"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacecrawler_1_1global.html"><param name="Name" value="crawler::global"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacecrawler_1_1global.html#af6c216ea8db9c012cebedbd1bcf621d5"><param name="Name" value="level"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacecrawler_1_1util.html"><param name="Name" value="crawler::util"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacecrawler_1_1util.html"><param name="Name" value="crawler::util"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacecrawler_1_1util.html#a551a04f37e4a38cac984db2f6c643b1d"><param name="Name" value="getDriver"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacedatapro.html#af441853b8094c81e91b96600eddb2ce3"><param name="Name" value="csv_writer"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacedatapro.html#af441853b8094c81e91b96600eddb2ce3"><param name="Name" value="datapro"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacedatapro.html#af441853b8094c81e91b96600eddb2ce3"><param name="Name" value="csv_writer"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacedatapro.html#af441853b8094c81e91b96600eddb2ce3"><param name="Name" value="datapro.py"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacedatapro.html"><param name="Name" value="datapro"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="datapro_8py.html"><param name="Name" value="datapro.py"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="datapro_8py.html#af441853b8094c81e91b96600eddb2ce3"><param name="Name" value="csv_writer"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="datapro_8py.html"><param name="Name" value="datapro.py"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="datapro_8py.html#ad3b8b138cc872c411c831e96e73cc586"><param name="Name" value="f"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="datapro_8py.html"><param name="Name" value="datapro.py"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="datapro_8py.html#ae5a02c303d5379088d97749b0a2244a6"><param name="Name" value="format"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="datapro_8py.html"><param name="Name" value="datapro.py"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="datapro_8py.html#ae102e14334bd004e2536709eb1344433"><param name="Name" value="keylist"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="datapro_8py.html"><param name="Name" value="datapro.py"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="datapro_8py.html#abbe6d64149a0fc51efb39ce2372ffdeb"><param name="Name" value="keywords"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="datapro_8py.html"><param name="Name" value="datapro.py"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="datapro_8py.html#ab3ab98e091d1dae89642940a84bed279"><param name="Name" value="level"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="datapro_8py.html"><param name="Name" value="datapro.py"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="datapro_8py.html#ae57011c063e15fdee424f9b9b36134ef"><param name="Name" value="namelist"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="datapro_8py.html"><param name="Name" value="datapro.py"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="datapro_8py.html#a5ad2b6936f41acacb51d8bee3e1b838c"><param name="Name" value="names"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="datapro_8py.html"><param name="Name" value="datapro.py"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="datapro_8py.html#a8fbde68294ce29386b828dc001185aa2"><param name="Name" value="readcsv"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacedatapro.html"><param name="Name" value="datapro"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacedatapro.html#af441853b8094c81e91b96600eddb2ce3"><param name="Name" value="csv_writer"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacedatapro.html"><param name="Name" value="datapro"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacedatapro.html#ad3b8b138cc872c411c831e96e73cc586"><param name="Name" value="f"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacedatapro.html"><param name="Name" value="datapro"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacedatapro.html#ae5a02c303d5379088d97749b0a2244a6"><param name="Name" value="format"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacedatapro.html"><param name="Name" value="datapro"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacedatapro.html#ae102e14334bd004e2536709eb1344433"><param name="Name" value="keylist"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacedatapro.html"><param name="Name" value="datapro"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacedatapro.html#abbe6d64149a0fc51efb39ce2372ffdeb"><param name="Name" value="keywords"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacedatapro.html"><param name="Name" value="datapro"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacedatapro.html#ab3ab98e091d1dae89642940a84bed279"><param name="Name" value="level"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacedatapro.html"><param name="Name" value="datapro"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacedatapro.html#ae57011c063e15fdee424f9b9b36134ef"><param name="Name" value="namelist"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacedatapro.html"><param name="Name" value="datapro"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacedatapro.html#a5ad2b6936f41acacb51d8bee3e1b838c"><param name="Name" value="names"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacedatapro.html"><param name="Name" value="datapro"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacedatapro.html#a8fbde68294ce29386b828dc001185aa2"><param name="Name" value="readcsv"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceapp.html#ab4a362027d4aa3246e0e0f57ebf177b0"><param name="Name" value="debug"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceapp.html#ab4a362027d4aa3246e0e0f57ebf177b0"><param name="Name" value="app"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceapp.html#ab4a362027d4aa3246e0e0f57ebf177b0"><param name="Name" value="debug"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceapp.html#ab4a362027d4aa3246e0e0f57ebf177b0"><param name="Name" value="app.py"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacedraw.html"><param name="Name" value="draw"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="draw_8py.html"><param name="Name" value="draw.py"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="draw_8py.html#aa80cedbd9395040c738bb42c1355e16f"><param name="Name" value="JournalData"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="draw_8py.html"><param name="Name" value="draw.py"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="draw_8py.html#acf2eb8b4c8e0ee4eaa0dbe7b890ebf42"><param name="Name" value="MapData"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="draw_8py.html"><param name="Name" value="draw.py"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="draw_8py.html#a52c45f0a9e99b26478c387f215ed6fee"><param name="Name" value="YearsData"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacedraw.html"><param name="Name" value="draw"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacedraw.html#aa80cedbd9395040c738bb42c1355e16f"><param name="Name" value="JournalData"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacedraw.html"><param name="Name" value="draw"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacedraw.html#acf2eb8b4c8e0ee4eaa0dbe7b890ebf42"><param name="Name" value="MapData"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacedraw.html"><param name="Name" value="draw"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacedraw.html#a52c45f0a9e99b26478c387f215ed6fee"><param name="Name" value="YearsData"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacecrawler_1_1ckni.html#a11c15bb89a07284de3718ce06d972ad4"><param name="Name" value="driver"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacecrawler_1_1ckni.html#a11c15bb89a07284de3718ce06d972ad4"><param name="Name" value="ckni.py"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacecrawler_1_1ckni.html#a11c15bb89a07284de3718ce06d972ad4"><param name="Name" value="driver"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacecrawler_1_1ckni.html#a11c15bb89a07284de3718ce06d972ad4"><param name="Name" value="crawler::ckni"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacedatapro.html#ad3b8b138cc872c411c831e96e73cc586"><param name="Name" value="f"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacedatapro.html#ad3b8b138cc872c411c831e96e73cc586"><param name="Name" value="datapro"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacedatapro.html#ad3b8b138cc872c411c831e96e73cc586"><param name="Name" value="f"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacedatapro.html#ad3b8b138cc872c411c831e96e73cc586"><param name="Name" value="datapro.py"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacecrawler_1_1ckni.html#a17077bf8d60f1f42f805857f6253c4ab"><param name="Name" value="field"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacecrawler_1_1ckni.html#a17077bf8d60f1f42f805857f6253c4ab"><param name="Name" value="ckni.py"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacecrawler_1_1ckni.html#a17077bf8d60f1f42f805857f6253c4ab"><param name="Name" value="field"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacecrawler_1_1ckni.html#a17077bf8d60f1f42f805857f6253c4ab"><param name="Name" value="crawler::ckni"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacecrawler_1_1ckni.html#ae9dd3bbf04dfee5cd1cfc703b195a9c7"><param name="Name" value="fields"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacecrawler_1_1ckni.html#ae9dd3bbf04dfee5cd1cfc703b195a9c7"><param name="Name" value="ckni.py"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacecrawler_1_1ckni.html#ae9dd3bbf04dfee5cd1cfc703b195a9c7"><param name="Name" value="fields"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacecrawler_1_1ckni.html#ae9dd3bbf04dfee5cd1cfc703b195a9c7"><param name="Name" value="crawler::ckni"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceapp.html#a7cd83bd8e40fb13ae9a8f304d1bf07c0"><param name="Name" value="format"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceapp.html#a7cd83bd8e40fb13ae9a8f304d1bf07c0"><param name="Name" value="app"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceapp.html#a7cd83bd8e40fb13ae9a8f304d1bf07c0"><param name="Name" value="format"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceapp.html#a7cd83bd8e40fb13ae9a8f304d1bf07c0"><param name="Name" value="app.py"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacecrawler_1_1bjfu.html#a5f7d5936aa0ce304dc43e16828365f8a"><param name="Name" value="format"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacecrawler_1_1bjfu.html#a5f7d5936aa0ce304dc43e16828365f8a"><param name="Name" value="bjfu.py"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacecrawler_1_1bjfu__advanced.html#a39b3d36b58b96c4498b35b6d34724d4a"><param name="Name" value="format"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacecrawler_1_1bjfu__advanced.html#a39b3d36b58b96c4498b35b6d34724d4a"><param name="Name" value="bjfu_advanced.py"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacecrawler_1_1bjfu__cos.html#aa5bc9a6610f9ca1e208acf0504ac176d"><param name="Name" value="format"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacecrawler_1_1bjfu__cos.html#aa5bc9a6610f9ca1e208acf0504ac176d"><param name="Name" value="bjfu_cos.py"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacecrawler_1_1ckni.html#adeb5ffafa92ee363316ee9f1cb487c31"><param name="Name" value="format"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacecrawler_1_1ckni.html#adeb5ffafa92ee363316ee9f1cb487c31"><param name="Name" value="ckni.py"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacecrawler_1_1bjfu.html#a5f7d5936aa0ce304dc43e16828365f8a"><param name="Name" value="format"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacecrawler_1_1bjfu.html#a5f7d5936aa0ce304dc43e16828365f8a"><param name="Name" value="crawler::bjfu"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacecrawler_1_1bjfu__advanced.html#a39b3d36b58b96c4498b35b6d34724d4a"><param name="Name" value="format"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacecrawler_1_1bjfu__advanced.html#a39b3d36b58b96c4498b35b6d34724d4a"><param name="Name" value="crawler::bjfu_advanced"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacecrawler_1_1bjfu__cos.html#aa5bc9a6610f9ca1e208acf0504ac176d"><param name="Name" value="format"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacecrawler_1_1bjfu__cos.html#aa5bc9a6610f9ca1e208acf0504ac176d"><param name="Name" value="crawler::bjfu_cos"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacecrawler_1_1ckni.html#adeb5ffafa92ee363316ee9f1cb487c31"><param name="Name" value="format"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacecrawler_1_1ckni.html#adeb5ffafa92ee363316ee9f1cb487c31"><param name="Name" value="crawler::ckni"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacecrawler_1_1global.html#ab488f0b6c7a28aebb64f815d76757d79"><param name="Name" value="format"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacecrawler_1_1global.html#ab488f0b6c7a28aebb64f815d76757d79"><param name="Name" value="crawler::global"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacedatapro.html#ae5a02c303d5379088d97749b0a2244a6"><param name="Name" value="format"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacedatapro.html#ae5a02c303d5379088d97749b0a2244a6"><param name="Name" value="datapro"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacedatapro.html#ae5a02c303d5379088d97749b0a2244a6"><param name="Name" value="format"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacedatapro.html#ae5a02c303d5379088d97749b0a2244a6"><param name="Name" value="datapro.py"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacecrawler_1_1global.html#ab488f0b6c7a28aebb64f815d76757d79"><param name="Name" value="format"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacecrawler_1_1global.html#ab488f0b6c7a28aebb64f815d76757d79"><param name="Name" value="global.py"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacecrawler_1_1util.html#a551a04f37e4a38cac984db2f6c643b1d"><param name="Name" value="getDriver"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacecrawler_1_1util.html#a551a04f37e4a38cac984db2f6c643b1d"><param name="Name" value="crawler::util"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacecrawler_1_1util.html#a551a04f37e4a38cac984db2f6c643b1d"><param name="Name" value="getDriver"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacecrawler_1_1util.html#a551a04f37e4a38cac984db2f6c643b1d"><param name="Name" value="util.py"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="global_8py.html"><param name="Name" value="global.py"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="global_8py.html#a83338bd316a305df1d3842a1ccd7ec27"><param name="Name" value="Global"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="global_8py.html"><param name="Name" value="global.py"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="global_8py.html#ab488f0b6c7a28aebb64f815d76757d79"><param name="Name" value="format"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="global_8py.html"><param name="Name" value="global.py"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="global_8py.html#af6c216ea8db9c012cebedbd1bcf621d5"><param name="Name" value="level"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacedatapro.html#ae102e14334bd004e2536709eb1344433"><param name="Name" value="keylist"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacedatapro.html#ae102e14334bd004e2536709eb1344433"><param name="Name" value="datapro"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacedatapro.html#ae102e14334bd004e2536709eb1344433"><param name="Name" value="keylist"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacedatapro.html#ae102e14334bd004e2536709eb1344433"><param name="Name" value="datapro.py"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacedatapro.html#abbe6d64149a0fc51efb39ce2372ffdeb"><param name="Name" value="keywords"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacedatapro.html#abbe6d64149a0fc51efb39ce2372ffdeb"><param name="Name" value="datapro"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacedatapro.html#abbe6d64149a0fc51efb39ce2372ffdeb"><param name="Name" value="keywords"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacedatapro.html#abbe6d64149a0fc51efb39ce2372ffdeb"><param name="Name" value="datapro.py"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceapp.html#a945cd6638431171676cc257366416b8d"><param name="Name" value="level"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceapp.html#a945cd6638431171676cc257366416b8d"><param name="Name" value="app"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceapp.html#a945cd6638431171676cc257366416b8d"><param name="Name" value="level"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceapp.html#a945cd6638431171676cc257366416b8d"><param name="Name" value="app.py"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacecrawler_1_1bjfu.html#a6f50bdf045cfa216397a3cdf9ec5b8ca"><param name="Name" value="level"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacecrawler_1_1bjfu.html#a6f50bdf045cfa216397a3cdf9ec5b8ca"><param name="Name" value="bjfu.py"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacecrawler_1_1bjfu__advanced.html#a6a8a545ade02e6759c3acf4de3a753b2"><param name="Name" value="level"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacecrawler_1_1bjfu__advanced.html#a6a8a545ade02e6759c3acf4de3a753b2"><param name="Name" value="bjfu_advanced.py"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacecrawler_1_1bjfu__cos.html#a0883de04724fa620b5f9bcb6b0dc7abe"><param name="Name" value="level"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacecrawler_1_1bjfu__cos.html#a0883de04724fa620b5f9bcb6b0dc7abe"><param name="Name" value="bjfu_cos.py"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacecrawler_1_1ckni.html#a3aabef26d53c5995fa3413efd479d2a4"><param name="Name" value="level"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacecrawler_1_1ckni.html#a3aabef26d53c5995fa3413efd479d2a4"><param name="Name" value="ckni.py"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacecrawler_1_1bjfu.html#a6f50bdf045cfa216397a3cdf9ec5b8ca"><param name="Name" value="level"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacecrawler_1_1bjfu.html#a6f50bdf045cfa216397a3cdf9ec5b8ca"><param name="Name" value="crawler::bjfu"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacecrawler_1_1bjfu__advanced.html#a6a8a545ade02e6759c3acf4de3a753b2"><param name="Name" value="level"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacecrawler_1_1bjfu__advanced.html#a6a8a545ade02e6759c3acf4de3a753b2"><param name="Name" value="crawler::bjfu_advanced"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacecrawler_1_1bjfu__cos.html#a0883de04724fa620b5f9bcb6b0dc7abe"><param name="Name" value="level"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacecrawler_1_1bjfu__cos.html#a0883de04724fa620b5f9bcb6b0dc7abe"><param name="Name" value="crawler::bjfu_cos"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacecrawler_1_1ckni.html#a3aabef26d53c5995fa3413efd479d2a4"><param name="Name" value="level"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacecrawler_1_1ckni.html#a3aabef26d53c5995fa3413efd479d2a4"><param name="Name" value="crawler::ckni"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacecrawler_1_1global.html#af6c216ea8db9c012cebedbd1bcf621d5"><param name="Name" value="level"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacecrawler_1_1global.html#af6c216ea8db9c012cebedbd1bcf621d5"><param name="Name" value="crawler::global"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacedatapro.html#ab3ab98e091d1dae89642940a84bed279"><param name="Name" value="level"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacedatapro.html#ab3ab98e091d1dae89642940a84bed279"><param name="Name" value="datapro"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacedatapro.html#ab3ab98e091d1dae89642940a84bed279"><param name="Name" value="level"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacedatapro.html#ab3ab98e091d1dae89642940a84bed279"><param name="Name" value="datapro.py"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacecrawler_1_1global.html#af6c216ea8db9c012cebedbd1bcf621d5"><param name="Name" value="level"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacecrawler_1_1global.html#af6c216ea8db9c012cebedbd1bcf621d5"><param name="Name" value="global.py"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceapp.html#a600d4519024634c14e1612d3aacf26c0"><param name="Name" value="login"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceapp.html#a600d4519024634c14e1612d3aacf26c0"><param name="Name" value="app"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceapp.html#a600d4519024634c14e1612d3aacf26c0"><param name="Name" value="login"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceapp.html#a600d4519024634c14e1612d3aacf26c0"><param name="Name" value="app.py"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classapp_1_1_search_form.html#aa629ec816daa65fab46c84c45bd029d8"><param name="Name" value="method"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacedatapro.html#ae57011c063e15fdee424f9b9b36134ef"><param name="Name" value="namelist"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacedatapro.html#ae57011c063e15fdee424f9b9b36134ef"><param name="Name" value="datapro"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacedatapro.html#ae57011c063e15fdee424f9b9b36134ef"><param name="Name" value="namelist"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacedatapro.html#ae57011c063e15fdee424f9b9b36134ef"><param name="Name" value="datapro.py"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacedatapro.html#a5ad2b6936f41acacb51d8bee3e1b838c"><param name="Name" value="names"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacedatapro.html#a5ad2b6936f41acacb51d8bee3e1b838c"><param name="Name" value="datapro"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacedatapro.html#a5ad2b6936f41acacb51d8bee3e1b838c"><param name="Name" value="names"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacedatapro.html#a5ad2b6936f41acacb51d8bee3e1b838c"><param name="Name" value="datapro.py"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacedatapro.html#a8fbde68294ce29386b828dc001185aa2"><param name="Name" value="readcsv"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacedatapro.html#a8fbde68294ce29386b828dc001185aa2"><param name="Name" value="datapro"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacedatapro.html#a8fbde68294ce29386b828dc001185aa2"><param name="Name" value="readcsv"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacedatapro.html#a8fbde68294ce29386b828dc001185aa2"><param name="Name" value="datapro.py"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacecrawler_1_1ckni.html#a1f579c64d6b9191ade933aaaa02da355"><param name="Name" value="scraping"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacecrawler_1_1ckni.html#a1f579c64d6b9191ade933aaaa02da355"><param name="Name" value="ckni.py"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacecrawler_1_1ckni.html#a1f579c64d6b9191ade933aaaa02da355"><param name="Name" value="scraping"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacecrawler_1_1ckni.html#a1f579c64d6b9191ade933aaaa02da355"><param name="Name" value="crawler::ckni"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classapp_1_1_search_form.html#a0de1e1d66187e332e6b8c18acc7db8fa"><param name="Name" value="submit"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="util_8py.html#a551a04f37e4a38cac984db2f6c643b1d"><param name="Name" value="util.py"></OBJECT>
+</UL>
+</BODY>
+</HTML>
